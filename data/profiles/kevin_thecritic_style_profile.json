@@ -1,0 +1,111 @@
+{
+  "user_id": "kevin_thecritic",
+  "sample_size": 648,
+  "lexical_richness": {
+    "total_tokens": 27038,
+    "vocab_size": 4408,
+    "type_token_ratio_ttr": 0.163,
+    "yules_characteristic_k": 79.29,
+    "hapax_legomena_ratio": 0.5288,
+    "avg_word_length": 4.29
+  },
+  "length_and_flow": {
+    "avg_words_per_tweet": 41.7,
+    "avg_chars_per_tweet": 225.1,
+    "avg_sentences_per_tweet": 2.54,
+    "avg_words_per_sentence": 16.43,
+    "flesch_reading_ease": 63.8
+  },
+  "capitalization_habits": {
+    "starts_with_lowercase_rate": 0.0046,
+    "starts_with_capital_rate": 0.9954,
+    "uppercase_char_ratio": 0.0325,
+    "top_all_caps_words": [
+      "AI",
+      "II",
+      "TV",
+      "RIP",
+      "MCU",
+      "TNG",
+      "FYEO",
+      "CG",
+      "US",
+      "III"
+    ]
+  },
+  "punctuation_fingerprint": {
+    "exclamations_per_100_words": 0.311,
+    "questions_per_100_words": 0.2,
+    "ellipses_per_tweet": 0.008,
+    "colons_per_tweet": 0.238,
+    "semicolons_per_tweet": 0.0,
+    "dashes_per_tweet": 0.003,
+    "parentheses_tweet_rate": 0.097
+  },
+  "grammatical_profile": {
+    "noun_ratio": 0.2512,
+    "verb_ratio": 0.1896,
+    "adj_ratio": 0.0832,
+    "adv_ratio": 0.0523,
+    "pronoun_ratio": 0.1223,
+    "pronoun_perspective": {
+      "1st_person": 0.4572,
+      "2nd_person": 0.0564,
+      "3rd_person": 0.4864
+    }
+  },
+  "social_microblogging": {
+    "emoji_rate_per_tweet": 0.006,
+    "top_emojis": [
+      "😂",
+      "😈",
+      "🥰",
+      "😄"
+    ],
+    "hashtag_rate_per_tweet": 0.002,
+    "top_hashtags": [
+      "#AvengersDoomsday"
+    ],
+    "mention_rate_per_tweet": 0.034
+  },
+  "signature_phrases": {
+    "top_openers": [
+      "i love",
+      "i saw",
+      "i hope",
+      "one of",
+      "i haven’t",
+      "i don’t",
+      "i like",
+      "i’m not"
+    ],
+    "top_closers": [
+      "to me.",
+      "see it!",
+      "to it.",
+      "the future.",
+      "for me.",
+      "so far.",
+      "it’s good.",
+      "they are."
+    ]
+  },
+  "topic_and_tone": {
+    "categories": {
+      "Film": 468,
+      "Review": 60,
+      "TV": 52,
+      "General": 41,
+      "Personal": 25,
+      "Awards": 1,
+      "Music": 1
+    },
+    "sentiments": {
+      "Positive": 395,
+      "Neutral": 195,
+      "Negative": 33,
+      "Mixed": 18,
+      "Humorous": 7
+    }
+  }
+}

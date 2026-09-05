@@ -1,0 +1,127 @@
+{
+  "user_id": "beingsalmankhan",
+  "sample_size": 25,
+  "lexical_richness": {
+    "total_tokens": 700,
+    "vocab_size": 407,
+    "type_token_ratio_ttr": 0.5814,
+    "yules_characteristic_k": 42.33,
+    "hapax_legomena_ratio": 0.6708,
+    "avg_word_length": 4.85
+  },
+  "length_and_flow": {
+    "avg_words_per_tweet": 28.0,
+    "avg_chars_per_tweet": 171.0,
+    "avg_sentences_per_tweet": 3.04,
+    "avg_words_per_sentence": 9.21,
+    "flesch_reading_ease": 66.3
+  },
+  "capitalization_habits": {
+    "starts_with_lowercase_rate": 0.0,
+    "starts_with_capital_rate": 1.0,
+    "uppercase_char_ratio": 0.072,
+    "top_all_caps_words": [
+      "OTT",
+      "USA",
+      "OUR",
+      "SALMAN",
+      "KHAN",
+      "181K",
+      "16M",
+      "12K",
+      "RACE3",
+      "RACE"
+    ]
+  },
+  "punctuation_fingerprint": {
+    "exclamations_per_100_words": 0.429,
+    "questions_per_100_words": 0.143,
+    "ellipses_per_tweet": 0.56,
+    "colons_per_tweet": 0.12,
+    "semicolons_per_tweet": 0.0,
+    "dashes_per_tweet": 0.0,
+    "parentheses_tweet_rate": 0.32
+  },
+  "grammatical_profile": {
+    "noun_ratio": 0.5057,
+    "verb_ratio": 0.1214,
+    "adj_ratio": 0.0429,
+    "adv_ratio": 0.0243,
+    "pronoun_ratio": 0.0629,
+    "pronoun_perspective": {
+      "1st_person": 0.5161,
+      "2nd_person": 0.1935,
+      "3rd_person": 0.2903
+    }
+  },
+  "social_microblogging": {
+    "emoji_rate_per_tweet": 0.64,
+    "top_emojis": [
+      "🙏",
+      "💬",
+      "🔄",
+      "🤍",
+      "📎"
+    ],
+    "hashtag_rate_per_tweet": 0.2,
+    "top_hashtags": [
+      "#DabanggReloaded",
+      "#40DaysForSALMANsBday",
+      "#MegastarSalmanKhan",
+      "#SalmanKhan",
+      "#Sikandar"
+    ],
+    "mention_rate_per_tweet": 0.84
+  },
+  "signature_phrases": {
+    "top_openers": [
+      "salman khan",
+      "beingsalmankhan (salman",
+      "dear @beingsalmankhanbhai,",
+      "beingsalmankhan. jul",
+      "april 13,",
+      "people on",
+      "babaaaa for",
+      "the latest"
+    ],
+    "top_closers": [
+      "it. 🙏",
+      "hai sukh",
+      "nahi bhara",
+      "x news",
+      "painter, humanitarian",
+      "log in",
+      "bhaihood .",
+      "#dabanggreloaded ..."
+    ]
+  },
+  "topic_and_tone": {
+    "categories": {
+      "General": 25
+    },
+    "sentiments": {
+      "Neutral": 25
+    }
+  },
+  "language_and_cultural_profile": {
+    "primary_language": "hinglish",
+    "hinglish_density": 0.0511,
+    "devanagari_char_density": 0.0,
+    "code_mixing_rate": 0.28,
+    "top_vernacular_tokens": [
+      "baba",
+      "bhai",
+      "hai",
+      "gaya",
+      "mera",
+      "aur",
+      "hain",
+      "hum",
+      "yeh",
+      "sukh",
+      "nahi",
+      "bhara"
+    ],
+    "is_vernacular_adapted": true
+  }
+}

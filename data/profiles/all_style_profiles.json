@@ -1,0 +1,532 @@
+{
+  "generated_at": "2026-09-05T06:35:13.254927+00:00",
+  "profiles": {
+    "davidehrlich": {
+      "user_id": "davidehrlich",
+      "sample_size": 952,
+      "lexical_richness": {
+        "total_tokens": 25593,
+        "vocab_size": 5242,
+        "type_token_ratio_ttr": 0.2048,
+        "yules_characteristic_k": 63.71,
+        "hapax_legomena_ratio": 0.5872,
+        "avg_word_length": 4.36
+      },
+      "length_and_flow": {
+        "avg_words_per_tweet": 26.9,
+        "avg_chars_per_tweet": 146.0,
+        "avg_sentences_per_tweet": 1.79,
+        "avg_words_per_sentence": 15.04,
+        "flesch_reading_ease": 63.7
+      },
+      "capitalization_habits": {
+        "starts_with_lowercase_rate": 0.5788,
+        "starts_with_capital_rate": 0.4191,
+        "uppercase_char_ratio": 0.0412,
+        "top_all_caps_words": [
+          "THE",
+          "AND",
+          "OF",
+          "TV",
+          "US",
+          "RIP",
+          "LA",
+          "MCU",
+          "TO",
+          "SO"
+        ]
+      },
+      "punctuation_fingerprint": {
+        "exclamations_per_100_words": 0.52,
+        "questions_per_100_words": 0.332,
+        "ellipses_per_tweet": 0.048,
+        "colons_per_tweet": 0.249,
+        "semicolons_per_tweet": 0.0,
+        "dashes_per_tweet": 0.054,
+        "parentheses_tweet_rate": 0.161
+      },
+      "grammatical_profile": {
+        "noun_ratio": 0.2849,
+        "verb_ratio": 0.1726,
+        "adj_ratio": 0.0864,
+        "adv_ratio": 0.0646,
+        "pronoun_ratio": 0.095,
+        "pronoun_perspective": {
+          "1st_person": 0.4958,
+          "2nd_person": 0.115,
+          "3rd_person": 0.3892
+        }
+      },
+      "social_microblogging": {
+        "emoji_rate_per_tweet": 0.024,
+        "top_emojis": [
+          "❤",
+          "🦊",
+          "🤌",
+          "💀",
+          "🤙🏻"
+        ],
+        "hashtag_rate_per_tweet": 0.054,
+        "top_hashtags": [
+          "#Sundance2022",
+          "#Oscars",
+          "#Cannes2022",
+          "#TellurideFilmFestival",
+          "#TIFF21"
+        ],
+        "mention_rate_per_tweet": 0.028
+      },
+      "signature_phrases": {
+        "top_openers": [
+          "this is",
+          "one of",
+          "i was",
+          "i am",
+          "it was",
+          "the thing",
+          "the only",
+          "in case"
+        ],
+        "top_closers": [
+          "my review:",
+          "review: [link]",
+          "#cannes2022 review:",
+          "this year",
+          "my review",
+          "god intended",
+          "#tiff22 review:",
+          "thank you"
+        ]
+      },
+      "topic_and_tone": {
+        "categories": {
+          "General": 453,
+          "Film": 295,
+          "Personal": 108,
+          "Review": 70,
+          "TV": 10,
+          "News": 8,
+          "Music": 6,
+          "Sports": 2
+        },
+        "sentiments": {
+          "Positive": 373,
+          "Neutral": 368,
+          "Humorous": 121,
+          "Negative": 72,
+          "Mixed": 18
+        }
+      },
+      "distinctive_ngrams": [
+        {
+          "phrase": "incredible",
+          "score": 0.1645
+        },
+        {
+          "phrase": "shit",
+          "score": 0.1519
+        },
+        {
+          "phrase": "fucking",
+          "score": 0.1202
+        },
+        {
+          "phrase": "000",
+          "score": 0.0949
+        },
+        {
+          "phrase": "cinema",
+          "score": 0.0949
+        },
+        {
+          "phrase": "asa",
+          "score": 0.0915
+        },
+        {
+          "phrase": "picture",
+          "score": 0.0886
+        },
+        {
+          "phrase": "mind",
+          "score": 0.0886
+        },
+        {
+          "phrase": "toddler",
+          "score": 0.0832
+        },
+        {
+          "phrase": "children",
+          "score": 0.0823
+        },
+        {
+          "phrase": "minute",
+          "score": 0.0823
+        },
+        {
+          "phrase": "cause",
+          "score": 0.0823
+        },
+        {
+          "phrase": "fuck",
+          "score": 0.0823
+        },
+        {
+          "phrase": "feel like",
+          "score": 0.0823
+        },
+        {
+          "phrase": "hell",
+          "score": 0.0759
+        }
+      ]
+    },
+    "kevin_thecritic": {
+      "user_id": "kevin_thecritic",
+      "sample_size": 648,
+      "lexical_richness": {
+        "total_tokens": 27038,
+        "vocab_size": 4408,
+        "type_token_ratio_ttr": 0.163,
+        "yules_characteristic_k": 79.29,
+        "hapax_legomena_ratio": 0.5288,
+        "avg_word_length": 4.29
+      },
+      "length_and_flow": {
+        "avg_words_per_tweet": 41.7,
+        "avg_chars_per_tweet": 225.1,
+        "avg_sentences_per_tweet": 2.54,
+        "avg_words_per_sentence": 16.43,
+        "flesch_reading_ease": 63.8
+      },
+      "capitalization_habits": {
+        "starts_with_lowercase_rate": 0.0046,
+        "starts_with_capital_rate": 0.9954,
+        "uppercase_char_ratio": 0.0325,
+        "top_all_caps_words": [
+          "AI",
+          "II",
+          "TV",
+          "RIP",
+          "MCU",
+          "TNG",
+          "FYEO",
+          "CG",
+          "US",
+          "III"
+        ]
+      },
+      "punctuation_fingerprint": {
+        "exclamations_per_100_words": 0.311,
+        "questions_per_100_words": 0.2,
+        "ellipses_per_tweet": 0.008,
+        "colons_per_tweet": 0.238,
+        "semicolons_per_tweet": 0.0,
+        "dashes_per_tweet": 0.003,
+        "parentheses_tweet_rate": 0.097
+      },
+      "grammatical_profile": {
+        "noun_ratio": 0.2512,
+        "verb_ratio": 0.1896,
+        "adj_ratio": 0.0832,
+        "adv_ratio": 0.0523,
+        "pronoun_ratio": 0.1223,
+        "pronoun_perspective": {
+          "1st_person": 0.4572,
+          "2nd_person": 0.0564,
+          "3rd_person": 0.4864
+        }
+      },
+      "social_microblogging": {
+        "emoji_rate_per_tweet": 0.006,
+        "top_emojis": [
+          "😂",
+          "😈",
+          "🥰",
+          "😄"
+        ],
+        "hashtag_rate_per_tweet": 0.002,
+        "top_hashtags": [
+          "#AvengersDoomsday"
+        ],
+        "mention_rate_per_tweet": 0.034
+      },
+      "signature_phrases": {
+        "top_openers": [
+          "i love",
+          "i saw",
+          "i hope",
+          "one of",
+          "i haven’t",
+          "i don’t",
+          "i like",
+          "i’m not"
+        ],
+        "top_closers": [
+          "to me.",
+          "see it!",
+          "to it.",
+          "the future.",
+          "for me.",
+          "so far.",
+          "it’s good.",
+          "they are."
+        ]
+      },
+      "topic_and_tone": {
+        "categories": {
+          "Film": 468,
+          "Review": 60,
+          "TV": 52,
+          "General": 41,
+          "Personal": 25,
+          "Awards": 1,
+          "Music": 1
+        },
+        "sentiments": {
+          "Positive": 395,
+          "Neutral": 195,
+          "Negative": 33,
+          "Mixed": 18,
+          "Humorous": 7
+        }
+      },
+      "distinctive_ngrams": [
+        {
+          "phrase": "ve seen",
+          "score": 0.2012
+        },
+        {
+          "phrase": "regardless",
+          "score": 0.1451
+        },
+        {
+          "phrase": "ideas",
+          "score": 0.1168
+        },
+        {
+          "phrase": "entertaining",
+          "score": 0.0974
+        },
+        {
+          "phrase": "themes",
+          "score": 0.0939
+        },
+        {
+          "phrase": "kevinthecritic",
+          "score": 0.0939
+        },
+        {
+          "phrase": "recently",
+          "score": 0.0909
+        },
+        {
+          "phrase": "hopefully",
+          "score": 0.0909
+        },
+        {
+          "phrase": "trek",
+          "score": 0.0909
+        },
+        {
+          "phrase": "engaging",
+          "score": 0.0853
+        },
+        {
+          "phrase": "romance",
+          "score": 0.0844
+        },
+        {
+          "phrase": "modern",
+          "score": 0.0844
+        },
+        {
+          "phrase": "issues",
+          "score": 0.0844
+        },
+        {
+          "phrase": "haven seen",
+          "score": 0.0779
+        },
+        {
+          "phrase": "villain",
+          "score": 0.0779
+        }
+      ]
+    },
+    "theinsneider": {
+      "user_id": "theinsneider",
+      "sample_size": 1034,
+      "lexical_richness": {
+        "total_tokens": 27001,
+        "vocab_size": 4765,
+        "type_token_ratio_ttr": 0.1765,
+        "yules_characteristic_k": 61.95,
+        "hapax_legomena_ratio": 0.545,
+        "avg_word_length": 4.29
+      },
+      "length_and_flow": {
+        "avg_words_per_tweet": 26.1,
+        "avg_chars_per_tweet": 140.8,
+        "avg_sentences_per_tweet": 2.41,
+        "avg_words_per_sentence": 10.86,
+        "flesch_reading_ease": 70.7
+      },
+      "capitalization_habits": {
+        "starts_with_lowercase_rate": 0.0087,
+        "starts_with_capital_rate": 0.9913,
+        "uppercase_char_ratio": 0.1093,
+        "top_all_caps_words": [
+          "THE",
+          "BREAKING",
+          "TONIGHT",
+          "INSNEIDER",
+          "HOT",
+          "EXCLUSIVE",
+          "MIC",
+          "RIP",
+          "ONE",
+          "OF"
+        ]
+      },
+      "punctuation_fingerprint": {
+        "exclamations_per_100_words": 0.881,
+        "questions_per_100_words": 0.756,
+        "ellipses_per_tweet": 0.496,
+        "colons_per_tweet": 0.234,
+        "semicolons_per_tweet": 0.001,
+        "dashes_per_tweet": 0.014,
+        "parentheses_tweet_rate": 0.036
+      },
+      "grammatical_profile": {
+        "noun_ratio": 0.3035,
+        "verb_ratio": 0.1918,
+        "adj_ratio": 0.0603,
+        "adv_ratio": 0.0476,
+        "pronoun_ratio": 0.1029,
+        "pronoun_perspective": {
+          "1st_person": 0.5031,
+          "2nd_person": 0.1683,
+          "3rd_person": 0.3286
+        }
+      },
+      "social_microblogging": {
+        "emoji_rate_per_tweet": 0.006,
+        "top_emojis": [
+          "💩",
+          "🌭",
+          "👍"
+        ],
+        "hashtag_rate_per_tweet": 0.019,
+        "top_hashtags": [
+          "#1",
+          "#CanIGetARewrite",
+          "#18",
+          "#TheMayor",
+          "#FinaleOfKingstown"
+        ],
+        "mention_rate_per_tweet": 0.082
+      },
+      "signature_phrases": {
+        "top_openers": [
+          "tonight on",
+          "no newsletter",
+          "breaking via",
+          "just finished",
+          "if you",
+          "just wrapped",
+          "hot rumor:",
+          "today on"
+        ],
+        "top_closers": [
+          "more scoops...",
+          "fresh scoops.",
+          "tonight's newsletter.",
+          "coming soon.",
+          "this week.",
+          "that one.",
+          "crime fiction.",
+          "a result."
+        ]
+      },
+      "topic_and_tone": {
+        "categories": {
+          "General": 598,
+          "Film": 245,
+          "News": 67,
+          "Review": 50,
+          "TV": 46,
+          "Music": 11,
+          "Sports": 11,
+          "Awards": 6
+        },
+        "sentiments": {
+          "Neutral": 867,
+          "Positive": 124,
+          "Negative": 43
+        }
+      },
+      "distinctive_ngrams": [
+        {
+          "phrase": "newsletter",
+          "score": 0.5944
+        },
+        {
+          "phrase": "insneider",
+          "score": 0.243
+        },
+        {
+          "phrase": "breaking",
+          "score": 0.198
+        },
+        {
+          "phrase": "tonight insneider",
+          "score": 0.1735
+        },
+        {
+          "phrase": "scoop",
+          "score": 0.1475
+        },
+        {
+          "phrase": "mic",
+          "score": 0.1432
+        },
+        {
+          "phrase": "hot mic",
+          "score": 0.1388
+        },
+        {
+          "phrase": "newsletter tonight",
+          "score": 0.1345
+        },
+        {
+          "phrase": "scoops",
+          "score": 0.1302
+        },
+        {
+          "phrase": "plus",
+          "score": 0.1221
+        },
+        {
+          "phrase": "tonight newsletter",
+          "score": 0.0911
+        },
+        {
+          "phrase": "im",
+          "score": 0.0911
+        },
+        {
+          "phrase": "taking night",
+          "score": 0.0781
+        },
+        {
+          "phrase": "newsletter tonight taking",
+          "score": 0.0738
+        },
+        {
+          "phrase": "tonight taking",
+          "score": 0.0738
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-09-05T06:10:41.261138+00:00",
+  "model": "mixedbread-ai/mxbai-embed-large-v1",
+  "embedding_dim": 1024,
+  "collection": "tweet_memories",
+  "total_vectors": 2634,
+  "users": [
+    {
+      "user_id": "davidehrlich",
+      "embedded": 952,
+      "skipped": 0,
+      "elapsed_s": 220.8
+    },
+    {
+      "user_id": "kevin_thecritic",
+      "embedded": 648,
+      "skipped": 0,
+      "elapsed_s": 199.6
+    },
+    {
+      "user_id": "theinsneider",
+      "embedded": 1034,
+      "skipped": 0,
+      "elapsed_s": 279.4
+    }
+  ]
+}

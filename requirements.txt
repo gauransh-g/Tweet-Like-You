@@ -1,0 +1,42 @@
+# Tweet Like You — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# ── Core ──────────────────────────────────────────────────
+python-dotenv>=1.0.0          # Load .env files
+tqdm>=4.66.0                  # Progress bars
+
+# ── Phase 3: LLM (Gemini) ─────────────────────────────────
+google-genai>=2.22.0          # Gemini API (new SDK — google-generativeai is deprecated)
+
+# ── Phase 4: Embeddings + Vector DB ───────────────────────
+sentence-transformers>=3.0.0  # mxbai-embed-large
+tf-keras>=2.19.0              # Keras 3 ↔ transformers compatibility shim
+chromadb>=0.5.0               # Local vector database
+
+# ── Phase 6: Stylometry ───────────────────────────────────
+spacy>=3.7.0                  # NLP pipeline
+scikit-learn>=1.5.0           # ML utilities
+numpy>=1.26.0                 # Numerical ops
+pandas>=2.2.0                 # Data manipulation
+
+# ── Phase 9: Factual Grounding ────────────────────────────
+wikipedia-api>=0.6.0          # Wikipedia lookups
+newsapi-python>=0.2.7         # NewsAPI client
+requests>=2.31.0              # HTTP requests (DuckDuckGo)
+beautifulsoup4>=4.12.0        # HTML parsing
+
+# ── Phase 12/13: Evaluation ───────────────────────────────
+rouge-score>=0.1.2            # ROUGE metrics
+nltk>=3.8.1                   # Linguistic analysis
+textstat>=0.7.3               # Readability / text stats
+
+# ── Phase 14: UI & API ──────────────────────────────────────
+streamlit>=1.36.0             # Classic Web UI
+fastapi>=0.110.0              # Modern REST API backend
+uvicorn[standard]>=0.28.0     # ASGI Server for FastAPI
+pydantic>=2.6.0               # Data validation
+
+# ── Utilities ─────────────────────────────────────────────
+emoji>=2.12.0                 # Emoji detection / handling
+langdetect>=1.0.9             # Language detection
+

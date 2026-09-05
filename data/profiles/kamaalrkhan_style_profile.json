@@ -1,0 +1,89 @@
+{
+  "user_id": "kamaalrkhan",
+  "sample_size": 10,
+  "lexical_richness": {
+    "total_tokens": 85,
+    "vocab_size": 39,
+    "type_token_ratio_ttr": 0.4588,
+    "yules_characteristic_k": 650.52,
+    "hapax_legomena_ratio": 0.7692,
+    "avg_word_length": 3.41
+  },
+  "length_and_flow": {
+    "avg_words_per_tweet": 8.5,
+    "avg_chars_per_tweet": 41.2,
+    "avg_sentences_per_tweet": 1.2,
+    "avg_words_per_sentence": 7.08,
+    "flesch_reading_ease": 99.7
+  },
+  "capitalization_habits": {
+    "starts_with_lowercase_rate": 0.0,
+    "starts_with_capital_rate": 1.0,
+    "uppercase_char_ratio": 0.1359,
+    "top_all_caps_words": [
+      "KRK"
+    ]
+  },
+  "punctuation_fingerprint": {
+    "exclamations_per_100_words": 1.176,
+    "questions_per_100_words": 0.0,
+    "ellipses_per_tweet": 0.0,
+    "colons_per_tweet": 2.1,
+    "semicolons_per_tweet": 0.0,
+    "dashes_per_tweet": 0.0,
+    "parentheses_tweet_rate": 0.1
+  },
+  "grammatical_profile": {
+    "noun_ratio": 0.47059999999999996,
+    "verb_ratio": 0.0588,
+    "adj_ratio": 0.0235,
+    "adv_ratio": 0.0118,
+    "pronoun_ratio": 0.0118,
+    "pronoun_perspective": {
+      "1st_person": 0.0,
+      "2nd_person": 0.0,
+      "3rd_person": 1.0
+    }
+  },
+  "social_microblogging": {
+    "emoji_rate_per_tweet": 0.0,
+    "top_emojis": [],
+    "hashtag_rate_per_tweet": 0.0,
+    "top_hashtags": [],
+    "mention_rate_per_tweet": 0.1
+  },
+  "signature_phrases": {
+    "top_openers": [
+      "krk on",
+      "krk (@kamaalrkhan).",
+      "people on",
+      "x on"
+    ],
+    "top_closers": [
+      "very dangerous!",
+      "log in",
+      "2026 04:31:19",
+      "2026 09:50:55",
+      "2026 17:03:06",
+      "2026 11:32:00",
+      "2026 05:27:22",
+      "with google"
+    ]
+  },
+  "topic_and_tone": {
+    "categories": {
+      "General": 10
+    },
+    "sentiments": {
+      "Neutral": 10
+    }
+  },
+  "language_and_cultural_profile": {
+    "primary_language": "english",
+    "hinglish_density": 0.0,
+    "devanagari_char_density": 0.0,
+    "code_mixing_rate": 0.0,
+    "top_vernacular_tokens": [],
+    "is_vernacular_adapted": false
+  }
+}

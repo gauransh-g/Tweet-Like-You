@@ -1,0 +1,77 @@
+{
+  "user_id": "sama_clone",
+  "sample_size": 5,
+  "lexical_richness": {
+    "total_tokens": 73,
+    "vocab_size": 57,
+    "type_token_ratio_ttr": 0.7808,
+    "yules_characteristic_k": 157.63,
+    "hapax_legomena_ratio": 0.8947,
+    "avg_word_length": 5.19
+  },
+  "length_and_flow": {
+    "avg_words_per_tweet": 14.6,
+    "avg_chars_per_tweet": 91.0,
+    "avg_sentences_per_tweet": 1.2,
+    "avg_words_per_sentence": 12.17,
+    "flesch_reading_ease": 44.1
+  },
+  "capitalization_habits": {
+    "starts_with_lowercase_rate": 1.0,
+    "starts_with_capital_rate": 0.0,
+    "uppercase_char_ratio": 0.0,
+    "top_all_caps_words": []
+  },
+  "punctuation_fingerprint": {
+    "exclamations_per_100_words": 0.0,
+    "questions_per_100_words": 0.0,
+    "ellipses_per_tweet": 0.0,
+    "colons_per_tweet": 0.0,
+    "semicolons_per_tweet": 0.0,
+    "dashes_per_tweet": 0.0,
+    "parentheses_tweet_rate": 0.0
+  },
+  "grammatical_profile": {
+    "noun_ratio": 0.27399999999999997,
+    "verb_ratio": 0.2329,
+    "adj_ratio": 0.1233,
+    "adv_ratio": 0.0548,
+    "pronoun_ratio": 0.0548,
+    "pronoun_perspective": {
+      "1st_person": 0.0,
+      "2nd_person": 0.0,
+      "3rd_person": 1.0
+    }
+  },
+  "social_microblogging": {
+    "emoji_rate_per_tweet": 0.0,
+    "top_emojis": [],
+    "hashtag_rate_per_tweet": 0.0,
+    "top_hashtags": [],
+    "mention_rate_per_tweet": 0.0
+  },
+  "signature_phrases": {
+    "top_openers": [
+      "compute is",
+      "most startups",
+      "superintelligence will",
+      "optimism is",
+      "the best"
+    ],
+    "top_closers": [
+      "backing reserve.",
+      "it is.",
+      "mental models.",
+      "the future.",
+      "that matter."
+    ]
+  },
+  "topic_and_tone": {
+    "categories": {
+      "General": 5
+    },
+    "sentiments": {
+      "Neutral": 5
+    }
+  }
+}

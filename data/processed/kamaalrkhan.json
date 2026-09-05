@@ -1,0 +1,152 @@
+[
+  {
+    "tweet_id": "web_kamaalrkhan_1",
+    "user_id": "kamaalrkhan",
+    "username": "kamaalrkhan",
+    "text": "KRK (@kamaalrkhan). It can be very dangerous!",
+    "text_raw": "KRK (@kamaalrkhan). It can be very dangerous!",
+    "timestamp": "2026-09-05T08:27:18.155102+00:00",
+    "metrics": {
+      "likes": 250,
+      "retweets": 45,
+      "replies": 12
+    },
+    "category": "General",
+    "sentiment": "Neutral"
+  },
+  {
+    "tweet_id": "web_kamaalrkhan_2",
+    "user_id": "kamaalrkhan",
+    "username": "kamaalrkhan",
+    "text": "People on X are the first to know. Log in",
+    "text_raw": "People on X are the first to know. Log in",
+    "timestamp": "2026-09-05T08:27:18.155150+00:00",
+    "metrics": {
+      "likes": 250,
+      "retweets": 45,
+      "replies": 12
+    },
+    "category": "General",
+    "sentiment": "Neutral"
+  },
+  {
+    "tweet_id": "web_kamaalrkhan_3",
+    "user_id": "kamaalrkhan",
+    "username": "kamaalrkhan",
+    "text": "KRK on X: \"\" / X 05 Sep 2026 04:31:19",
+    "text_raw": "KRK on X: \"\" / X 05 Sep 2026 04:31:19",
+    "timestamp": "2026-09-05T08:27:18.155171+00:00",
+    "metrics": {
+      "likes": 250,
+      "retweets": 45,
+      "replies": 12
+    },
+    "category": "General",
+    "sentiment": "Neutral"
+  },
+  {
+    "tweet_id": "web_kamaalrkhan_4",
+    "user_id": "kamaalrkhan",
+    "username": "kamaalrkhan",
+    "text": "KRK on X: \"\" / X 01 Sep 2026 09:50:55",
+    "text_raw": "KRK on X: \"\" / X 01 Sep 2026 09:50:55",
+    "timestamp": "2026-09-05T08:27:18.155183+00:00",
+    "metrics": {
+      "likes": 250,
+      "retweets": 45,
+      "replies": 12
+    },
+    "category": "General",
+    "sentiment": "Neutral"
+  },
+  {
+    "tweet_id": "web_kamaalrkhan_5",
+    "user_id": "kamaalrkhan",
+    "username": "kamaalrkhan",
+    "text": "KRK on X: \"\" / X 29 Jul 2026 17:03:06",
+    "text_raw": "KRK on X: \"\" / X 29 Jul 2026 17:03:06",
+    "timestamp": "2026-09-05T08:27:18.155196+00:00",
+    "metrics": {
+      "likes": 250,
+      "retweets": 45,
+      "replies": 12
+    },
+    "category": "General",
+    "sentiment": "Neutral"
+  },
+  {
+    "tweet_id": "web_kamaalrkhan_6",
+    "user_id": "kamaalrkhan",
+    "username": "kamaalrkhan",
+    "text": "KRK on X: \"\" / X 22 Aug 2026 11:32:00",
+    "text_raw": "KRK on X: \"\" / X 22 Aug 2026 11:32:00",
+    "timestamp": "2026-09-05T08:27:18.155209+00:00",
+    "metrics": {
+      "likes": 250,
+      "retweets": 45,
+      "replies": 12
+    },
+    "category": "General",
+    "sentiment": "Neutral"
+  },
+  {
+    "tweet_id": "web_kamaalrkhan_7",
+    "user_id": "kamaalrkhan",
+    "username": "kamaalrkhan",
+    "text": "KRK on X: \"\" / X 01 Sep 2026 05:27:22",
+    "text_raw": "KRK on X: \"\" / X 01 Sep 2026 05:27:22",
+    "timestamp": "2026-09-05T08:27:18.155221+00:00",
+    "metrics": {
+      "likes": 250,
+      "retweets": 45,
+      "replies": 12
+    },
+    "category": "General",
+    "sentiment": "Neutral"
+  },
+  {
+    "tweet_id": "web_kamaalrkhan_8",
+    "user_id": "kamaalrkhan",
+    "username": "kamaalrkhan",
+    "text": "X on X Continue with phone Continue with Apple Continue with Google",
+    "text_raw": "X on X Continue with phone Continue with Apple Continue with Google",
+    "timestamp": "2026-09-05T08:27:18.155232+00:00",
+    "metrics": {
+      "likes": 250,
+      "retweets": 45,
+      "replies": 12
+    },
+    "category": "General",
+    "sentiment": "Neutral"
+  },
+  {
+    "tweet_id": "web_kamaalrkhan_9",
+    "user_id": "kamaalrkhan",
+    "username": "kamaalrkhan",
+    "text": "KRK on X: \"\" / X 02 Sep 2026 09:00:18",
+    "text_raw": "KRK on X: \"\" / X 02 Sep 2026 09:00:18",
+    "timestamp": "2026-09-05T08:27:18.155244+00:00",
+    "metrics": {
+      "likes": 250,
+      "retweets": 45,
+      "replies": 12
+    },
+    "category": "General",
+    "sentiment": "Neutral"
+  },
+  {
+    "tweet_id": "web_kamaalrkhan_10",
+    "user_id": "kamaalrkhan",
+    "username": "kamaalrkhan",
+    "text": "KRK on X: \"\" / X 20 Aug 2026 03:47:54",
+    "text_raw": "KRK on X: \"\" / X 20 Aug 2026 03:47:54",
+    "timestamp": "2026-09-05T08:27:18.155264+00:00",
+    "metrics": {
+      "likes": 250,
+      "retweets": 45,
+      "replies": 12
+    },
+    "category": "General",
+    "sentiment": "Neutral"
+  }
+]

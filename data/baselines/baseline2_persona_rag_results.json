@@ -1,0 +1,741 @@
+{
+  "baseline": "baseline_2_persona_rag",
+  "description": "LLM + Persona System Prompt + Stylometric Guardrails + Dynamic Few-Shots",
+  "model": "gemini-3.5-flash-lite",
+  "generated_at": "2026-09-05T06:42:13.750612+00:00",
+  "users": [
+    "davidehrlich",
+    "kevin_thecritic",
+    "theinsneider"
+  ],
+  "topics": [
+    "Oppenheimer's use of practical effects and IMAX filmmaking",
+    "Whether streaming has killed the theatrical experience",
+    "The Brutalist and its 3.5 hour runtime",
+    "Why superhero fatigue is real",
+    "Dune Part Two's desert cinematography",
+    "The Oscar nominations being predictable this year"
+  ],
+  "results": [
+    {
+      "user_id": "davidehrlich",
+      "topic": "Oppenheimer's use of practical effects and IMAX filmmaking",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "nolan really went and blew up an actual desert just so some idiotmaxxing tech bros could text through the Trinity test. viscerally despondent.",
+        "char_count": 142,
+        "word_count": 23,
+        "elapsed_s": 2.52,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 5,
+        "avg_similarity": 0.5687,
+        "retrieved_tweets": [
+          {
+            "text": "Oppenheimer is a towering achievement. Nolan has delivered his most ambitious, complex, and morally probing film yet. Cillian Murphy is phenomenal, the score is relentless, and the IMAX experience is essential. One of the best films of the decade.",
+            "similarity": 0.6244,
+            "category": "Review",
+            "sentiment": "Positive",
+            "likes": 1245
+          },
+          {
+            "text": "lol it's definitely gonna be oppenheimer",
+            "similarity": 0.5998,
+            "category": "General",
+            "sentiment": "Neutral",
+            "likes": 209
+          },
+          {
+            "text": "A Z100 DJ is emceeing this screening, as per cinematic tradition.",
+            "similarity": 0.5463,
+            "category": "General",
+            "sentiment": "Neutral",
+            "likes": 93
+          },
+          {
+            "text": "it's done so well that it completely defeats you from thinking about it that way, but so fascinating to read up about how they did it after the movie's over.",
+            "similarity": 0.5366,
+            "category": "Film",
+            "sentiment": "Positive",
+            "likes": 11
+          },
+          {
+            "text": "A Working Man: AMC A-list cinema par excellence. i will spend the rest of my very meaningful life thinking about how big the moon is during the final shootout of this movie.",
+            "similarity": 0.5365,
+            "category": "General",
+            "sentiment": "Positive",
+            "likes": 709
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "davidehrlich",
+      "topic": "Whether streaming has killed the theatrical experience",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "streaming has us all completely despondent, idiotmaxxing our way through algorithmic quicksand while some four-hour Hou Hsiao-hsien restoration sits unplayed on a hard drive like a suicide note.",
+        "char_count": 194,
+        "word_count": 28,
+        "elapsed_s": 1.06,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 5,
+        "avg_similarity": 0.6424,
+        "retrieved_tweets": [
+          {
+            "text": "hoping that Iron Lung is the final nail in the coffin of that whole “young people don’t want to go to the movies” mishegoss. if anything it proves that next-gen audiences would rather think of YouTube as a pipeline for movie theaters than a potential replacement for them.",
+            "similarity": 0.67,
+            "category": "General",
+            "sentiment": "Positive",
+            "likes": 15941
+          },
+          {
+            "text": "Rian Johnson echoing the irony of what i've been told by people at Netflix: Netflix will only be convinced to invest more in theatrical if Glass Onion is a massive hit on Netflix. they need to see that theatrical is the best advertisement for streaming (duh), not an anticlimax.",
+            "similarity": 0.659,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 490
+          },
+          {
+            "text": "in the hyper-proprietary future Netflix is hoping to create, the ability to watch movies - to watch *any* movie - would practically cease to exist for most people on earth if a server farm caught fire or an underwater fiber-optic data cable was severed. I feel like that’s bad.",
+            "similarity": 0.6446,
+            "category": "General",
+            "sentiment": "Negative",
+            "likes": 2274
+          },
+          {
+            "text": "the only thing worse than getting a terrible movie review is getting a terrible review of a movie you loved. i am not immune to the pain of the latter, but i do think it is better for cinema in the long run.",
+            "similarity": 0.6419,
+            "category": "General",
+            "sentiment": "Neutral",
+            "likes": 312
+          },
+          {
+            "text": "went to a movie theater tonight. incredible experience.",
+            "similarity": 0.5963,
+            "category": "General",
+            "sentiment": "Positive",
+            "likes": 1568
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "davidehrlich",
+      "topic": "The Brutalist and its 3.5 hour runtime",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "the brutalist is 3.5 hours of sheer, despondent architectural awe that somehow leaves you wanting more. brady corbet is truly idiotmaxxing his way into the a24 hall of fame.",
+        "char_count": 173,
+        "word_count": 29,
+        "elapsed_s": 1.03,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 5,
+        "avg_similarity": 0.5917,
+        "retrieved_tweets": [
+          {
+            "text": "BABYLON: Damien Chazelle's hot mess of sex, drugs, and silent films argues that the movies will live forever, it just doesn't have any idea how.\nthe first hour is electric tho, and the last 15 minutes are a *wild* swing for the fences.\n\nmy review:",
+            "similarity": 0.5996,
+            "category": "Film",
+            "sentiment": "Mixed",
+            "likes": 260
+          },
+          {
+            "text": "Fantastic Four is screening at 7pm the night before a noon embargo, so critics will have 3 work hours at most to file their reviews (to say nothing of the edit process). not the biggest crisis on earth, but I’ll never get why studios keep doing this to their films. even good ones",
+            "similarity": 0.5948,
+            "category": "General",
+            "sentiment": "Negative",
+            "likes": 2196
+          },
+          {
+            "text": "28 Years Later: The Bone Temple absolutely rips. A smart and thoughtful continuation of/pivot away from the last one, incredible performances. Sequel trilogy is 2/2 in a big way as far as I’m concerned.",
+            "similarity": 0.5896,
+            "category": "Review",
+            "sentiment": "Positive",
+            "likes": 4531
+          },
+          {
+            "text": "2ND CHANCE: Ramin Bahrani's doc is an anti-capitalist fable about Richard Davis, an American entrepreneur who shot himself 192 times and somehow only managed to get *other* people killed. extremely Herzogian, for better or worse. my #Sundance2022 review: [link]",
+            "similarity": 0.5882,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 29
+          },
+          {
+            "text": "The Fall Guy has big “the movies are back” vibes. huge. runs way out of gas in the second half but honestly who gives a shit. this is what it’s all about: not a superhero in sight, just chemistry & car crashes & Ryan Gosling wearing a jacket. let’s make it a hit & never look back",
+            "similarity": 0.5862,
+            "category": "Review",
+            "sentiment": "Positive",
+            "likes": 6058
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "davidehrlich",
+      "topic": "Why superhero fatigue is real",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "superhero fatigue is so real because we’ve reached peak idiotmaxxing, where studios milk every despondent IP until even the most pathetic fanboys are logging off to read Cormac McCarthy.",
+        "char_count": 186,
+        "word_count": 29,
+        "elapsed_s": 0.98,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 5,
+        "avg_similarity": 0.5946,
+        "retrieved_tweets": [
+          {
+            "text": "I wrote about “Absolute Cinema” aka the new Thunderbolts* trailer, and why it feels so inevitable that Marvel is trying to be A24",
+            "similarity": 0.6068,
+            "category": "General",
+            "sentiment": "Neutral",
+            "likes": 483
+          },
+          {
+            "text": "ETERNALS: in style & tone this is easily the least Marvel-like movie in the MCU (it doesn't look like plastic. also, sex happens) & the scale is cosmic in a way that makes the avengers arc feel like a blip. so why is it still just misfit spandex people fighting bad CG for 3 hours",
+            "similarity": 0.6032,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 1554
+          },
+          {
+            "text": "ETERNALS: superheroes confront God itself in Marvel’s biggest movie, but the bold stylistic & tonal shifts that Chloé Zhao brings to the franchise ultimately highlight the deeper ways in which the MCU is unwilling to evolve. my review: [link]",
+            "similarity": 0.5974,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 405
+          },
+          {
+            "text": "Marvel is very, very good at getting people to do things for money in a way that often comes across as love.",
+            "similarity": 0.5915,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 1227
+          },
+          {
+            "text": "The Multiverse of Sadness",
+            "similarity": 0.5742,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 1223
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "davidehrlich",
+      "topic": "Dune Part Two's desert cinematography",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "greig fraser's sand photography in dune part two is undeniably gorgeous, but watching two and a half hours of beige grading makes me feel utterly despondent.",
+        "char_count": 157,
+        "word_count": 26,
+        "elapsed_s": 0.96,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 5,
+        "avg_similarity": 0.6498,
+        "retrieved_tweets": [
+          {
+            "text": "Dune: Part II is astonishing to look at but agonizing to watch, as Denis Villeneuve and Paul Atreides both lose sight of what matters amid the enormity of their visions. at least Zendaya, Bardem, and the sandworms all deliver in a big way.",
+            "similarity": 0.7123,
+            "category": "Review",
+            "sentiment": "Mixed",
+            "likes": 721
+          },
+          {
+            "text": "Dune Part II: well at least Javier Bardem was having fun.",
+            "similarity": 0.6709,
+            "category": "Review",
+            "sentiment": "Mixed",
+            "likes": 850
+          },
+          {
+            "text": "lol at anyone who thinks i'm not THRILLED (or at least deeply relieved) about this just cause i didn't like Dune. a world in which i'm forced to sit through Dune: Part Two >>> a world in which Villeneuve isn't allowed to *make* Dune: Part Two. let Chalamet ride a giant sandworm.",
+            "similarity": 0.6393,
+            "category": "Film",
+            "sentiment": "Positive",
+            "likes": 1621
+          },
+          {
+            "text": "DUNE is a *massive* disappointment. \n\nthe cinematic equivalent of getting a novelty-sized check for six dollars. \n\nhype is the mind-killer. here's my review:",
+            "similarity": 0.6356,
+            "category": "Film",
+            "sentiment": "Negative",
+            "likes": 1257
+          },
+          {
+            "text": "Sirat: every movie should have at least one scene where all of the characters accidentally create a rave in the middle of a minefield. a mad and unforgettable vision of what the end of the world might look like for those who refuse to stop dancing. #Cannes2025",
+            "similarity": 0.5907,
+            "category": "General",
+            "sentiment": "Positive",
+            "likes": 634
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "davidehrlich",
+      "topic": "The Oscar nominations being predictable this year",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "another year of corporate slop lock-ins for the academy. truly despondent stuff, though at least it gives us plenty of time to go idiotmaxxing on main.",
+        "char_count": 151,
+        "word_count": 26,
+        "elapsed_s": 1.07,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 5,
+        "avg_similarity": 0.6691,
+        "retrieved_tweets": [
+          {
+            "text": "feels like there's a good chance this is the best picture lineup.\n\nnot terrible, but also some truly incredible potential for the academy to pick one of the most embarrassing winners in its history at the expense of a major new american masterpiece.",
+            "similarity": 0.7068,
+            "category": "General",
+            "sentiment": "Neutral",
+            "likes": 5195
+          },
+          {
+            "text": "It’s gonna be a long Oscar season.",
+            "similarity": 0.6944,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 520
+          },
+          {
+            "text": "starting to feel like there's a non-zero chance The Zone of Interest could pull off the wildest upset in Oscar history and win Best Picture. i'm trash at predicting awards/not delusional enough to think it *will* happen, but with the odds at +5000 i'd bet a few dollars. anyway.",
+            "similarity": 0.6599,
+            "category": "General",
+            "sentiment": "Neutral",
+            "likes": 2037
+          },
+          {
+            "text": "hard to complain about the Oscars too much when the best movie of the year wins Best Picture.",
+            "similarity": 0.6484,
+            "category": "General",
+            "sentiment": "Positive",
+            "likes": 17188
+          },
+          {
+            "text": "if you’d told me 10 years ago that PTA, Park Chan-wook, Josh Safdie/Ronald Bronstein, Jafar Panahi, Ryan Coogler, and Chloé Zhao would all be nominated for major Golden Globes in 2025 I would’ve said “sounds like the future of movies is awesome please don’t spoil anything else.”",
+            "similarity": 0.636,
+            "category": "General",
+            "sentiment": "Positive",
+            "likes": 9678
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "kevin_thecritic",
+      "topic": "Oppenheimer's use of practical effects and IMAX filmmaking",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "Sitting in the IMAX theater, I felt the sheer physical force of Oppenheimer in my bones. Nolan’s reliance on practical effects over digital noise creates a tactile, thunderous atmosphere. It is a staggering achievement, even if my frame of reference for pacing leaves room for debate. 4.5/5",
+        "char_count": 290,
+        "word_count": 47,
+        "elapsed_s": 1.14,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 0,
+        "avg_similarity": 0.0,
+        "retrieved_tweets": []
+      }
+    },
+    {
+      "user_id": "kevin_thecritic",
+      "topic": "Whether streaming has killed the theatrical experience",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "Streaming hasn’t killed theaters, but it shifted my frame of reference. Sitting on my couch offers comfort, yet nothing replaces the collective breath held in a darkened room. Convenience is nice, but I deeply miss the sheer magic of genuine communal cinema. 3.5/5",
+        "char_count": 264,
+        "word_count": 43,
+        "elapsed_s": 1.1,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 0,
+        "avg_similarity": 0.0,
+        "retrieved_tweets": []
+      }
+    },
+    {
+      "user_id": "kevin_thecritic",
+      "topic": "The Brutalist and its 3.5 hour runtime",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "I spent three and a half hours absorbing The Brutalist, and I found it to be a genuinely mixed bag. The ambition is staggering, yet the narrative suffers from tonal whiplash in the final stretch. Still, my frame of reference for cinema demands this kind of scale. 3.5/5",
+        "char_count": 269,
+        "word_count": 48,
+        "elapsed_s": 1.36,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 0,
+        "avg_similarity": 0.0,
+        "retrieved_tweets": []
+      }
+    },
+    {
+      "user_id": "kevin_thecritic",
+      "topic": "Why superhero fatigue is real",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "Superhero fatigue is real, but not because the genre itself is broken. I felt it deeply this weekend. It is a mixed bag of corporate overextension and increasingly comic-booky storytelling that lacks any grounding frame of reference. 2.5/5.",
+        "char_count": 240,
+        "word_count": 38,
+        "elapsed_s": 1.56,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 0,
+        "avg_similarity": 0.0,
+        "retrieved_tweets": []
+      }
+    },
+    {
+      "user_id": "kevin_thecritic",
+      "topic": "Dune Part Two's desert cinematography",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "Greig Fraser’s cinematography in Dune Part Two is a stunning mixed bag. While some sequences feel overly digital and comic-booky, the vast desert frames completely overwhelmed my senses. It is an undervalued visual achievement that demands the biggest screen possible. 4/5",
+        "char_count": 272,
+        "word_count": 41,
+        "elapsed_s": 1.49,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 0,
+        "avg_similarity": 0.0,
+        "retrieved_tweets": []
+      }
+    },
+    {
+      "user_id": "kevin_thecritic",
+      "topic": "The Oscar nominations being predictable this year",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "These Oscar nominations feel like a bit of a mixed bag to me, playing it terribly safe while completely bypassing some of our most undervalued performances. I appreciate the craftsmanship on display, but my frame of reference craves genuine surprise. 3/5",
+        "char_count": 254,
+        "word_count": 41,
+        "elapsed_s": 0.98,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 0,
+        "avg_similarity": 0.0,
+        "retrieved_tweets": []
+      }
+    },
+    {
+      "user_id": "theinsneider",
+      "topic": "Oppenheimer's use of practical effects and IMAX filmmaking",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "EXCLUSIVE: Christopher Nolan didn't just rely on CGI for Oppenheimer. My source tells me that massive IMAX presentation required zero digital shortcuts—unlike the cheap stuff getting farmed out today.",
+        "char_count": 200,
+        "word_count": 29,
+        "elapsed_s": 1.33,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 5,
+        "avg_similarity": 0.4926,
+        "retrieved_tweets": [
+          {
+            "text": "After which he’ll be working with Mr. Abrams.",
+            "similarity": 0.5134,
+            "category": "General",
+            "sentiment": "Neutral",
+            "likes": 60
+          },
+          {
+            "text": "R.I.P. Shelley Duvall, who starred in THE SHINING and POPEYE. She gives an incredible performance in Kubrick’s film.",
+            "similarity": 0.4989,
+            "category": "Film",
+            "sentiment": "Positive",
+            "likes": 117
+          },
+          {
+            "text": "Just saw the MEGALOPOLIS trailer. Francis Ford Coppola is truly one of one. This looks batshit insane in the best possible way. Can't wait.",
+            "similarity": 0.4887,
+            "category": "Film",
+            "sentiment": "Positive",
+            "likes": 87
+          },
+          {
+            "text": "R.I.P. Roger Corman, B-movie icon and director of THE LITTLE SHOP OF HORRORS. At 98, he lived a full life, and he’ll be a remembered as a Hollywood legend who influenced countless careers.",
+            "similarity": 0.4862,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 191
+          },
+          {
+            "text": "CONSIDER watching this fascinating interview between Eyes Wide Shut cinematographer Larry Smith and my FYC co-host @MovieMantz. Speaking of FYC, we just recorded a new CASTING episode that will post on Friday, featuring movies & people we're grateful for this year. Don't miss it!",
+            "similarity": 0.476,
+            "category": "TV",
+            "sentiment": "Neutral",
+            "likes": 24
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "theinsneider",
+      "topic": "Whether streaming has killed the theatrical experience",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "EXCLUSIVE: Streaming didn't kill the theatrical experience, Hollywood accountants did. My top source tells me the latest studio presentation proves nobody wants to buy tickets anymore.",
+        "char_count": 184,
+        "word_count": 26,
+        "elapsed_s": 1.27,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 5,
+        "avg_similarity": 0.6251,
+        "retrieved_tweets": [
+          {
+            "text": "A tale of two aggregators. Did I say that Apple was abandoning its wide-release strategy, or did I say that Apple was abandoning theaters altogether and releasing movies straight-to-streaming? Hmmm...",
+            "similarity": 0.7058,
+            "category": "TV",
+            "sentiment": "Neutral",
+            "likes": 12
+          },
+          {
+            "text": "Reading the WOLFS Pivot: Is Apple Getting Out of the Wide Theatrical Release Business After F1?",
+            "similarity": 0.6186,
+            "category": "General",
+            "sentiment": "Neutral",
+            "likes": 8
+          },
+          {
+            "text": "The problem is WHO Rotten Tomatoes considers a critic, and that critics have no standards. If you take 33 random people and put them in a room, it'll be tough to get them to agree on anything. Unless it's 33 critics and you show them a horror movie, apparently...",
+            "similarity": 0.6064,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 17
+          },
+          {
+            "text": "At this point, it feels like Netflix is holding its big Sundance acquisition IT'S WHAT'S INSIDE for October. The streamer has been very quiet about that title since shelling out $17M for it earlier this year. It's for the BODIES BODIES BODIES crowd...",
+            "similarity": 0.5974,
+            "category": "TV",
+            "sentiment": "Neutral",
+            "likes": 34
+          },
+          {
+            "text": "I guess when you make one too many teary-eyed reaction videos, you get outed as a bad actor. A generation of movie fans are being clowned by influencer-shills. These people don’t care about you, the audience. They’re bought and paid for. In 2026, embrace truly independent media.",
+            "similarity": 0.5973,
+            "category": "Film",
+            "sentiment": "Negative",
+            "likes": 272
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "theinsneider",
+      "topic": "The Brutalist and its 3.5 hour runtime",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "HOT RUMOR: That 3.5-hour runtime on THE BRUTALIST isn't scaring off Academy voters one bit. My top source tells me the studio presentation blew everyone away...",
+        "char_count": 160,
+        "word_count": 26,
+        "elapsed_s": 1.37,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 5,
+        "avg_similarity": 0.582,
+        "retrieved_tweets": [
+          {
+            "text": "On an all-new episode of FOR YOUR CONSIDERATION, I ask @MovieMantz and @PNemiroff whether THE BRUTALIST's Brady Corbet can hold off Denis Villeneuve and Ridley Scott for Best Director...",
+            "similarity": 0.612,
+            "category": "Film",
+            "sentiment": "Positive",
+            "likes": 14
+          },
+          {
+            "text": "Anytime you can watch 28 minutes of a movie, ya gotta do it. Or… you don’t! If everyone pushed back & asked themselves, ‘Why do I WANT to see 28 minutes of a movie that comes out in 3 weeks?’ studios would stop wasting everyone’s time by hosting such ridiculous marketing events.",
+            "similarity": 0.5945,
+            "category": "Film",
+            "sentiment": "Negative",
+            "likes": 83
+          },
+          {
+            "text": "TONIGHT on THE INSNEIDER: FURIOSA mostly lives up to FURY ROAD, but without Mad Max, it's running out of gas at the box office. My full review, plus my thoughts on TOM HOLLAND's notable absence from THR's New A-List, and who actually made the cut...",
+            "similarity": 0.5715,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 16
+          },
+          {
+            "text": "TONIGHT on THE INSNEIDER: THR adds to the confusion surrounding Quentin Tarantino's THE MOVIE CRITIC as it tries to sort fact from (pulp) fiction. Plus, my thoughts on ArnowJo's indie comedy THE FEELING THAT THE TIME FOR DOING SOMETHING HAS PASSED...",
+            "similarity": 0.5687,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 22
+          },
+          {
+            "text": "Just wrapped up my review of the new A24 horror film. Strong performances but the script left me wanting more. Full thoughts coming soon.",
+            "similarity": 0.5631,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 26
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "theinsneider",
+      "topic": "Why superhero fatigue is real",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "HOT RUMOR: Studios are finally waking up to the fact that superhero fatigue is very real. My box office source says the latest pitch presentation crashed hard...",
+        "char_count": 161,
+        "word_count": 27,
+        "elapsed_s": 1.25,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 5,
+        "avg_similarity": 0.5633,
+        "retrieved_tweets": [
+          {
+            "text": "Some people write about FANTASTIC FOUR... and some of us have already moved on.",
+            "similarity": 0.5796,
+            "category": "General",
+            "sentiment": "Positive",
+            "likes": 103
+          },
+          {
+            "text": "You’ll have to subscribe to my newsletter for my full review of DEADPOOL AND WOLVERINE, but suffice it to say, I didn’t like it. You can read a million positive reviews tomorrow, but once again, I’ll be going against the grain. Fair warning…",
+            "similarity": 0.5744,
+            "category": "Review",
+            "sentiment": "Neutral",
+            "likes": 57
+          },
+          {
+            "text": "Anyone else notice how quiet things have been this week? Feels like the calm before Comic-Con.",
+            "similarity": 0.5591,
+            "category": "General",
+            "sentiment": "Neutral",
+            "likes": 15
+          },
+          {
+            "text": "Just wrapped up my Comic-Con coverage for tomorrow's newsletter. Lots of thoughts on the big Hall H panel and what it means for the future of the DCEU...",
+            "similarity": 0.5544,
+            "category": "General",
+            "sentiment": "Neutral",
+            "likes": 45
+          },
+          {
+            "text": "TONIGHT on THE INSNEIDER: My longest issue yet. A 6500-word behemoth feat. SUPERMAN secrets that will have you both excited AND nervous. Plus, reviews of A COMPLETE UNKNOWN and NOSFERATU, and why David Ellison should beam up Lord and Miller for STAR TREK...",
+            "similarity": 0.5492,
+            "category": "Review",
+            "sentiment": "Positive",
+            "likes": 31
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "theinsneider",
+      "topic": "Dune Part Two's desert cinematography",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "HOT RUMOR: Greig Fraser is the clear frontrunner for another Oscar nomination after that stunning desert presentation in DUNE PART TWO. My source confirms it...",
+        "char_count": 160,
+        "word_count": 25,
+        "elapsed_s": 50.84,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 5,
+        "avg_similarity": 0.5401,
+        "retrieved_tweets": [
+          {
+            "text": "Momoa’s return for DUNE 3 has been confirmed.",
+            "similarity": 0.6398,
+            "category": "General",
+            "sentiment": "Neutral",
+            "likes": 247
+          },
+          {
+            "text": "Today on THE INSNEIDER: FOR YOUR CONSIDERATION returns, as Hollywood's top Oscar pundits (@MovieMantz, @PNemiroff, and yours truly) set the table for awards season & discover we disagree about DUNE: PART TWO's Best Picture chances. Dissention in the ranks!",
+            "similarity": 0.5361,
+            "category": "Film",
+            "sentiment": "Positive",
+            "likes": 27
+          },
+          {
+            "text": "EUPHORIA is coming back for S3, and PRESUMED INNOCENT is coming back for S2, but only ONE show is bringing back its original stars... for now. Meanwhile, Timothee Chalamet has lined up a ping-pong movie. When will he and Zendaya have time to shoot DUNE 3?",
+            "similarity": 0.5324,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 17
+          },
+          {
+            "text": "After which he’ll be working with Mr. Abrams.",
+            "similarity": 0.5019,
+            "category": "General",
+            "sentiment": "Neutral",
+            "likes": 60
+          },
+          {
+            "text": "One of my red flags is when someone says a director, really knows where to put the camera. I would hope so...",
+            "similarity": 0.4904,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 33
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "theinsneider",
+      "topic": "The Oscar nominations being predictable this year",
+      "baseline": "baseline_2_persona_rag",
+      "result": {
+        "status": "ok",
+        "text": "HOT RUMOR: This Oscar race is painfully predictable, exactly as my sources warned me months ago. Can we just skip to the categories that actually matter?",
+        "char_count": 153,
+        "word_count": 26,
+        "elapsed_s": 1.29,
+        "model": "gemini-3.5-flash-lite",
+        "few_shots_count": 5,
+        "avg_similarity": 0.6239,
+        "retrieved_tweets": [
+          {
+            "text": "No you won’t. It’ll be like last year’s winner ATROPIA and that terrible Macon Blair movie that won and disappeared into the Netflix algorithm forever.",
+            "similarity": 0.669,
+            "category": "Film",
+            "sentiment": "Negative",
+            "likes": 36
+          },
+          {
+            "text": "Sweet kid, but EVERYONE works hard. The award isnt called Best Hard Worker, its called Best Actress. Pam did a great job, but to pretend that she deserved an OSCAR nomination for THAT movie is certifiably INSANE. Sorry, SAG nom comm!",
+            "similarity": 0.6252,
+            "category": "Film",
+            "sentiment": "Positive",
+            "likes": 30
+          },
+          {
+            "text": "Outlets that run Anonymous Oscar ballots should be barred from attending the Oscars for helping to facilitate rampant rule-breaking on the part of members. Between performative Honest Ballots, Blake Lively lawsuits and unnecessary James Gunn denials, the internet has been ruined.",
+            "similarity": 0.615,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 24
+          },
+          {
+            "text": "REMINDER: FYC goes live at 9 a.m. PT tomorrow morning, when @PNemiroff, @MovieMantz, and I will be talking about the BEST ACTOR race. Such a crap year for Oscar movies. Let's just give it to Jai Courtney for DANGEROUS ANIMALS (or Channing for ROOFMAN) and call it a day, shall we?",
+            "similarity": 0.6074,
+            "category": "Film",
+            "sentiment": "Positive",
+            "likes": 15
+          },
+          {
+            "text": "TONIGHT on THE INSNEIDER: It's Emmy predictions time! SLOW HORSES will challenge THE CROWN, while BABY REINDEER star Jessica Gunning could WIN. Plus, Dwayne Johnson's rough day, WB's new Margot Robbie movie, and an update on JP_Books' ALEX CROSS series...",
+            "similarity": 0.6028,
+            "category": "Film",
+            "sentiment": "Neutral",
+            "likes": 15
+          }
+        ]
+      }
+    }
+  ]
+}

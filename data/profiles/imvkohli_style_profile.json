@@ -1,0 +1,94 @@
+{
+  "user_id": "imvkohli",
+  "sample_size": 10,
+  "lexical_richness": {
+    "total_tokens": 137,
+    "vocab_size": 87,
+    "type_token_ratio_ttr": 0.635,
+    "yules_characteristic_k": 182.22,
+    "hapax_legomena_ratio": 0.8161,
+    "avg_word_length": 4.58
+  },
+  "length_and_flow": {
+    "avg_words_per_tweet": 13.7,
+    "avg_chars_per_tweet": 79.7,
+    "avg_sentences_per_tweet": 3.0,
+    "avg_words_per_sentence": 4.57,
+    "flesch_reading_ease": 74.3
+  },
+  "capitalization_habits": {
+    "starts_with_lowercase_rate": 0.5,
+    "starts_with_capital_rate": 0.5,
+    "uppercase_char_ratio": 0.0803,
+    "top_all_caps_words": []
+  },
+  "punctuation_fingerprint": {
+    "exclamations_per_100_words": 0.73,
+    "questions_per_100_words": 2.19,
+    "ellipses_per_tweet": 0.1,
+    "colons_per_tweet": 0.0,
+    "semicolons_per_tweet": 0.0,
+    "dashes_per_tweet": 0.0,
+    "parentheses_tweet_rate": 1.0
+  },
+  "grammatical_profile": {
+    "noun_ratio": 0.5548,
+    "verb_ratio": 0.1022,
+    "adj_ratio": 0.0292,
+    "adv_ratio": 0.0292,
+    "pronoun_ratio": 0.0438,
+    "pronoun_perspective": {
+      "1st_person": 0.6,
+      "2nd_person": 0.2,
+      "3rd_person": 0.2
+    }
+  },
+  "social_microblogging": {
+    "emoji_rate_per_tweet": 1.4,
+    "top_emojis": [
+      "🐶",
+      "😃",
+      "🏃♂🏃♂🏃♂",
+      "♟",
+      "🔗"
+    ],
+    "hashtag_rate_per_tweet": 0.2,
+    "top_hashtags": [
+      "#WrognLikeABoss",
+      "#StayWrogn"
+    ],
+    "mention_rate_per_tweet": 0.8
+  },
+  "signature_phrases": {
+    "top_openers": [
+      "imvkohli (virat",
+      "virat kohli"
+    ],
+    "top_closers": [
+      "today 😃",
+      "work! 🏃♂🏃♂🏃♂",
+      "#staywrogn ...",
+      "@abdevilliers17 ???",
+      "everyone 🤝",
+      "replies. 😍",
+      "0 📎",
+      "next. 🇮🇳💪"
+    ]
+  },
+  "topic_and_tone": {
+    "categories": {
+      "General": 10
+    },
+    "sentiments": {
+      "Neutral": 10
+    }
+  },
+  "language_and_cultural_profile": {
+    "primary_language": "english",
+    "hinglish_density": 0.0,
+    "devanagari_char_density": 0.0,
+    "code_mixing_rate": 0.0,
+    "top_vernacular_tokens": [],
+    "is_vernacular_adapted": false
+  }
+}

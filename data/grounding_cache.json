@@ -1,0 +1,969 @@
+{
+  "The Brutalist and its 3.5 hour runtime": {
+    "topic": "The Brutalist and its 3.5 hour runtime",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "The Brutalist",
+      "Brutalist 3.5 hour runtime"
+    ],
+    "live_news": [
+      {
+        "title": "'The Brutalist' director responds to film's controversy over using AI",
+        "snippet": "Add Yahoo as a preferred source to see more of our stories on Google. Brady Corbet, director of critically acclaimed film \"The Brutalist,\" is responding to crit",
+        "source": "Yahoo"
+      },
+      {
+        "title": "'The Brutalist' Builds Towards Major Global Box Office Milestone After Earning 10 Oscar Nods",
+        "snippet": "Rohan Naahar is a News Writer for Collider. From Francois Ozon to David Fincher, he'll watch anything once. He has covered everything from Marvel to the Oscars,",
+        "source": "Collider"
+      },
+      {
+        "title": "'The Brutalist' Migrates to Digital This Month Following Multiple Oscar Nods",
+        "snippet": "Lade Omotade is a News and Features Author at Collider, covering everything from casting announcements and streaming trends to behind-the-scenes stories and the",
+        "source": "Collider"
+      },
+      {
+        "title": "Miami to decide fate of stunning stadium where speedboats raced and Jimmy Buffett played",
+        "snippet": "The Miami Marine Stadium, considered a masterpiece of midcentury Brutalist architecture with its massive cantilevered roof and a stunning view of the city, o...",
+        "source": "Yahoo Entertainment"
+      }
+    ],
+    "factual_points": [
+      "The Brutalist is a 2024 epic period drama film directed and produced by Brady Corbet, who co-wrote the screenplay with Mona Fastvold.",
+      "It stars Adrien Brody as a Jewish-Hungarian architect and severely traumatized Holocaust survivor who emigrates to the United States, where he struggles to recover and get his life back on track.",
+      "The cast also features Felicity Jones, Guy Pearce, Joe Alwyn, Raffey Cassidy, Stacy Martin, Emma Laird, Isaach de Bankolé, and Alessandro Nivola."
+    ],
+    "sources": [
+      "Wikipedia",
+      "Yahoo Entertainment",
+      "Collider",
+      "Yahoo"
+    ],
+    "retrieved_at": "2026-09-05T07:07:35.968248+00:00"
+  },
+  "Oppenheimer's use of practical effects and IMAX filmmaking": {
+    "topic": "Oppenheimer's use of practical effects and IMAX filmmaking",
+    "entities_checked": [
+      "Oppenheimer (film)",
+      "Oppenheimer"
+    ],
+    "facts": [
+      "Oppenheimer is a 2023 epic biographical thriller film written, co-produced, and directed by Christopher Nolan.",
+      "It follows the life of J.",
+      "Robert Oppenheimer, the American theoretical physicist who helped develop the first nuclear weapons during World War II.",
+      "Based on the 2005 biography American Prometheus by Kai Bird and Martin J."
+    ],
+    "sources": [
+      "Wikipedia"
+    ],
+    "retrieved_at": "2026-09-05T06:46:20.601385+00:00"
+  },
+  "Dune Part Two's desert cinematography": {
+    "topic": "Dune Part Two's desert cinematography",
+    "entities_checked": [
+      "Dune: Part Two",
+      "Dune 2"
+    ],
+    "facts": [
+      "Dune: Part Two is a 2024 American epic space opera film directed by Denis Villeneuve, from a screenplay he wrote with Jon Spaihts.",
+      "It is a sequel to Dune (2021), is the second film in a two-part adaptation of Frank Herbert's 1965 science fiction novel Dune, and is the second of a trilogy of films developed by Legendary Pictures.",
+      "Timothée Chalamet leads an ensemble cast as Paul Atreides, an exiled monarch who allies with the Fremen to overthrow House Harkonnen as part of a quest to become a messianic figure.",
+      "Villeneuve produced Dune: Part Two with his wife and business partner Tanya Lapointe, Mary Parent and Cale Boyter of Legendary Pictures, and Patrick McCormick."
+    ],
+    "sources": [
+      "Wikipedia"
+    ],
+    "retrieved_at": "2026-09-05T06:46:23.229198+00:00"
+  },
+  "The Oscar nominations being predictable this year": {
+    "topic": "The Oscar nominations being predictable this year",
+    "entities_checked": [
+      "Academy Awards",
+      "97th Academy Awards",
+      "96th Academy Awards"
+    ],
+    "facts": [
+      "The Academy Awards, more commonly known as the Oscars, are awards based on artistic and technical merit in film.",
+      "They are presented annually by the Academy of Motion Picture Arts and Sciences (AMPAS) in the United States in recognition of excellence in cinematic achievements around the world, as assessed by the Academy's voting membership.",
+      "The Oscars are widely considered to be the most prestigious awards in the film industry, predominantly centered around films produced in Hollywood.",
+      "The major award categories, known as the Academy Awards of Merit, are presented during a live televised Hollywood ceremony in February or March."
+    ],
+    "sources": [
+      "Wikipedia"
+    ],
+    "retrieved_at": "2026-09-05T06:46:26.128345+00:00"
+  },
+  " project hail mary": {
+    "topic": " project hail mary",
+    "entities_checked": [
+      "project hail mary"
+    ],
+    "facts": [
+      "Project Hail Mary is a 2021 hard science fiction novel by American writer Andy Weir.",
+      "It centers on science teacher and former biologist Ryland Grace, who wakes up aboard a spacecraft, afflicted with amnesia.",
+      "Project Hail Mary received generally positive reviews and was a finalist for the 2022 Hugo Award for Best Novel.",
+      "The unabridged audiobook was read by Ray Porter and won the 2022 Audie Award for Audiobook of the Year."
+    ],
+    "sources": [
+      "Wikipedia",
+      "NewsAPI"
+    ],
+    "retrieved_at": "2026-09-05T06:55:50.431399+00:00"
+  },
+  "The Odyssey": {
+    "topic": "The Odyssey",
+    "entities_checked": [
+      "Odyssey"
+    ],
+    "facts": [
+      "The Odyssey (; Ancient Greek: Ὀδύσσεια, romanized: Odýsseia [odýsseːa]) is one of two major epics of ancient Greek literature attributed to Homer.",
+      "It is one of the oldest surviving works of literature and remains popular with modern audiences.",
+      "Like the Iliad, the Odyssey is divided into 24 books.",
+      "It follows the heroic king of Ithaca, Odysseus, also known by the Latin variant Ulysses, and his homecoming journey after the ten-year-long Trojan War."
+    ],
+    "sources": [
+      "Wikipedia",
+      "NewsAPI"
+    ],
+    "retrieved_at": "2026-09-05T06:57:33.748441+00:00"
+  },
+  "Nvidia's new Blackwell AI chips and GPU demand": {
+    "topic": "Nvidia's new Blackwell AI chips and GPU demand",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "Nvidia",
+      "Blackwell AI",
+      "GPU",
+      "Nvidia new Blackwell chips"
+    ],
+    "live_news": [
+      {
+        "title": "Prediction: This Is What a $1,000 Investment in Nvidia Will Be Worth by 2029",
+        "snippet": "Nvidia is poised to deliver a terrific increase in earnings over the next three years, paving the...",
+        "source": "Motley Fool · via Yahoo Finance"
+      },
+      {
+        "title": "Prediction: Vera Rubin Is About to Become a $20 Billion Windfall for Nvidia by...",
+        "snippet": "Nvidia is guiding for $108 billion in total revenue for the third quarter.",
+        "source": "Motley Fool · via Yahoo Finance"
+      },
+      {
+        "title": "Jim Cramer Believes Nvidia Corp. (NASDAQ:NVDA) Buying Back Half A Trillion Worth...",
+        "snippet": "Nvidia Corp. (NASDAQ:NVDA)’s shares are up by 22% year-to-date as their performance has remained mut...",
+        "source": "Insider Monkey · via Yahoo Finance"
+      }
+    ],
+    "factual_points": [
+      "Nvidia Corporation ( en-VID-ee-ə) is an American multinational technology company headquartered in Santa Clara, California.",
+      "The company develops graphics processing units (GPUs), systems on chips (SoCs), and application programming interfaces (APIs) for data science, high-performance computing, artificial intelligence (AI), and mobile and automotive applications.",
+      "Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, Nvidia has been widely described as a Big Tech company."
+    ],
+    "sources": [
+      "Wikipedia",
+      "Insider Monkey · via Yahoo Finance",
+      "Motley Fool · via Yahoo Finance"
+    ],
+    "retrieved_at": "2026-09-05T07:07:28.091833+00:00"
+  },
+  "OpenAI o3 and GPT-5 release expectations": {
+    "topic": "OpenAI o3 and GPT-5 release expectations",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "OpenAI",
+      "GPT",
+      "OpenAI GPT-5 release expectations"
+    ],
+    "live_news": [
+      {
+        "title": "OpenAI quietly boosts some of Astra’s evaluation metrics, and continues to chang...",
+        "snippet": "The numbers on OpenAI's blog about Astra kept changing. In some cases, the changes made Astra look...",
+        "source": "Fortune · via Yahoo Tech"
+      },
+      {
+        "title": "Seattle Times and Newsday Sue OpenAI and Microsoft Over News Content",
+        "snippet": "The Seattle Times Co. and Newsday sued OpenAI and Microsoft on September 4, 2026, filing a federal...",
+        "source": "Unite.ai"
+      },
+      {
+        "title": "OpenAI's rogue agents keep escaping, with no formal process to investigate them...",
+        "snippet": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researc...",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The Safety Reckoning Inside OpenAI",
+        "snippet": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+        "source": "Wired"
+      }
+    ],
+    "factual_points": [
+      "OpenAI is an American artificial intelligence (AI) public benefit corporation (PBC) headquartered in San Francisco.",
+      "It develops proprietary generative AI models, particularly its generative pre-trained transformer (GPT) series of large language models (LLMs).",
+      "Its release of ChatGPT in November 2022 has been credited with catalyzing the AI boom; as of September 2026, ChatGPT is the fifth-most-visited website globally."
+    ],
+    "sources": [
+      "Unite.ai",
+      "TechCrunch",
+      "Wired",
+      "Fortune · via Yahoo Tech",
+      "Wikipedia",
+      "The Verge"
+    ],
+    "retrieved_at": "2026-09-05T07:07:32.455294+00:00"
+  },
+  "Nvidia Blackwell GPU demand and AI infrastructure": {
+    "topic": "Nvidia Blackwell GPU demand and AI infrastructure",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "Nvidia Blackwell GPU",
+      "AI",
+      "Nvidia Blackwell GPU demand"
+    ],
+    "live_news": [
+      {
+        "title": "NVIDIA \"N1X\" Comes in Two SKUs: 20C CPU and 6,144C GPU or 18C CPU and 5,120C GPU",
+        "snippet": "At IFA today, NVIDIA confirmed that the upcoming N1X SoC for the RTX Spark PC platform will come in two configurations. The ...",
+        "source": "TechPowerUp"
+      },
+      {
+        "title": "E2E Networks bags ₹1,000 crore NVIDIA Blackwell cloud GPU deal from sovereign AI firm",
+        "snippet": "E2E Networks, an AI hyperscale cloud platform, gained investor interest after securing a long-term cloud GPU contract worth ...",
+        "source": "Mint on MSN"
+      },
+      {
+        "title": "IREN obtains $2.4B private credit financing to buy Nvidia chips",
+        "snippet": "AI data center platform IREN Limited (Nasdaq: IREN) obtained a $2.4 billion financing package led by private lenders to purchase Nvidia Blackwell Ultra GPUs. Bl",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
+        "snippet": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 w",
+        "source": "The Verge"
+      }
+    ],
+    "factual_points": [
+      "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making.",
+      "It is a field of research in engineering, mathematics, and computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximise their chances of achieving defined goals.",
+      "High-profile applications of AI include advanced web search engines, chatbots, virtual assistants, autonomous vehicles, play and analysis in strategy games (e.g., chess and Go), and content generation (e.g."
+    ],
+    "sources": [
+      "Yahoo Finance",
+      "Wikipedia",
+      "The Verge",
+      "Mint on MSN",
+      "TechPowerUp"
+    ],
+    "retrieved_at": "2026-09-05T07:16:27.157638+00:00"
+  },
+  "AI progress and startups": {
+    "topic": "AI progress and startups",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "AI",
+      "progress startups"
+    ],
+    "live_news": [
+      {
+        "title": "BigBear.ai vs. CoreWeave: Evaluating the Better Artificial Intelligence Stock to...",
+        "snippet": "Both face heavy customer concentration and significant losses, but their paths to profitability, and...",
+        "source": "Motley Fool · via Yahoo Finance"
+      },
+      {
+        "title": "Clay Matthews reacts to TMZ's AI-generated photo depicting him",
+        "snippet": "Packers great Clay Matthews is reacting to the AI-generated photo TMZ posted to its social media...",
+        "source": "Milwaukee Journal Sentinel · via Yahoo Sports"
+      },
+      {
+        "title": "I asked AI to rank the 10 jobs most likely to be replaced by AI — here's what th...",
+        "snippet": "After asking four chatbots to rank the 10 jobs that are most at risk of being replaced by AI and...",
+        "source": "Tom's Guide · via Yahoo Tech"
+      },
+      {
+        "title": "Plaud is launching AI earbuds",
+        "snippet": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of ",
+        "source": "The Verge"
+      }
+    ],
+    "factual_points": [
+      "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making.",
+      "It is a field of research in engineering, mathematics, and computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximise their chances of achieving defined goals.",
+      "High-profile applications of AI include advanced web search engines, chatbots, virtual assistants, autonomous vehicles, play and analysis in strategy games (e.g., chess and Go), and content generation (e.g."
+    ],
+    "sources": [
+      "The Verge",
+      "Milwaukee Journal Sentinel · via Yahoo Sports",
+      "Tom's Guide · via Yahoo Tech",
+      "Motley Fool · via Yahoo Finance",
+      "Wikipedia"
+    ],
+    "retrieved_at": "2026-09-05T07:33:37.002860+00:00"
+  },
+  "India vs Australia test match tension": {
+    "topic": "India vs Australia test match tension",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "India",
+      "Australia",
+      "India Australia test match"
+    ],
+    "live_news": [
+      {
+        "title": "Air India set for $1bn cash boost amid Singapore opposition over capital calls",
+        "snippet": "The prospect of further capital calls on Singapore Airlines has proved controversial in the city-state. Last week, opposition MP Kenneth Tiong criticised the ro",
+        "source": "Financial Times"
+      },
+      {
+        "title": "Explainer-how India's below-average September rainfall fuels concern about crops",
+        "snippet": "By Rajendra Jadhav MUMBAI, Sept 4 (Reuters) - India's weather office has forecast rains in September that are below average, ...",
+        "source": "Reuters on MSN"
+      },
+      {
+        "title": "India's GDP growth defies oil shock but stirs up controversy",
+        "snippet": "India's 7.8% GDP growth has been met with scepticism over methodology and long-term durability due to a weak monsoon.",
+        "source": "BBC on MSN"
+      },
+      {
+        "title": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
+        "snippet": "A reported cannabis-positive test involving an Air India pilot raises questions about what such a result can actually tell investigators.",
+        "source": "BBC News"
+      }
+    ],
+    "factual_points": [
+      "India, officially the Republic of India, is a country in South Asia.",
+      "It is the world's seventh-largest country by area and the largest by population.",
+      "Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east."
+    ],
+    "sources": [
+      "BBC on MSN",
+      "Wikipedia",
+      "Financial Times",
+      "BBC News",
+      "Reuters on MSN"
+    ],
+    "retrieved_at": "2026-09-05T07:36:35.338299+00:00"
+  },
+  "India vs Australia Test match tension": {
+    "topic": "India vs Australia Test match tension",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "India",
+      "Australia Test",
+      "India Australia Test match"
+    ],
+    "live_news": [
+      {
+        "title": "Where to watch India vs. Pakistan live stream, TV channel, start time and...",
+        "snippet": "India take on Pakistan in the Women's Asia Cup 2026. Here’s how to watch the match live in India, in...",
+        "source": "Sporting News"
+      },
+      {
+        "title": "Exclusive-India flags Abhayrab rabies vaccine batch as substandard, probes if...",
+        "snippet": "By Rishika Sadam HYDERABAD, Sept 4 (Reuters) - India's drug regulator has flagged a batch of widely...",
+        "source": "KFGO"
+      },
+      {
+        "title": "Opinion - India-France ties should not replace relations with Washington",
+        "snippet": "France and India have increasingly strengthened their technological, economic and especially...",
+        "source": "The Hill · via Yahoo News"
+      },
+      {
+        "title": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
+        "snippet": "A reported cannabis-positive test involving an Air India pilot raises questions about what such a result can actually tell investigators.",
+        "source": "BBC News"
+      }
+    ],
+    "factual_points": [
+      "India, officially the Republic of India, is a country in South Asia.",
+      "It is the world's seventh-largest country by area and the largest by population.",
+      "Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east."
+    ],
+    "sources": [
+      "The Hill · via Yahoo News",
+      "BBC News",
+      "KFGO",
+      "Wikipedia",
+      "Sporting News"
+    ],
+    "retrieved_at": "2026-09-05T07:42:32.136033+00:00"
+  },
+  "black buck case": {
+    "topic": "black buck case",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "black buck case"
+    ],
+    "live_news": [
+      {
+        "title": "'Kala Hiran': Film based on Salman Khan's black buck controversy unveiled",
+        "snippet": "Producer Amit Jani has announced Kala Hiran: The Battle For Legacy, a crime thriller inspired by Salman Khan's black buck case and the events surrounding it. Th",
+        "source": "MSN"
+      },
+      {
+        "title": "Salman Khan's black buck case adapted into a film named Kaala Hiran?",
+        "snippet": "The makers have released the poster for the upcoming film Kaala Hiran. Apparently, it is based on the black buck poaching case surrounding Salman Khan. The plot",
+        "source": "MSN"
+      },
+      {
+        "title": "Salman Khan issues legal notice against Kala Hiran movie inspired by infamous black buck case",
+        "snippet": "Salman Khan has a lot of controversies on his back, but none as dark as the black buck case of 1998. During the filming of Hum Saath Saath Hain, the actor was a",
+        "source": "MSN"
+      },
+      {
+        "title": "How to take better photos of your pets",
+        "snippet": "Like the pets of any self-respecting millennial, my cats have their own Instagram account. Noodle and Loaf - aka Carb Cats - aren't exactly celebrities. But the",
+        "source": "The Verge"
+      }
+    ],
+    "factual_points": [],
+    "sources": [
+      "The Verge",
+      "Android Central",
+      "MSN"
+    ],
+    "retrieved_at": "2026-09-05T07:49:26.013470+00:00"
+  },
+  "oracle layoff": {
+    "topic": "oracle layoff",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "oracle layoff"
+    ],
+    "live_news": [
+      {
+        "title": "Oracle 6 a.m. layoff notice: The letter that shocked thousands on March 31. Now many fear they would get one on September 1",
+        "snippet": "On March 31, Oracle executed a massive layoff, affecting thousands of employees worldwide. Notices were sent through email, ...",
+        "source": "The Economic Times on MSN"
+      },
+      {
+        "title": "Oracle layoffs in India today? 3,000 job cuts beyond US",
+        "snippet": "Oracle is cutting around 3,000 jobs in India, extending a global workforce reduction as the company ramps up spending on AI ...",
+        "source": "The American Bazaar"
+      },
+      {
+        "title": "Oracle may announce fresh layoffs in September: Thousands of Indian employees could be affected",
+        "snippet": "Oracle could announce another round of layoffs in September, as the technology company looks to reduce costs and align its ...",
+        "source": "India TV News"
+      },
+      {
+        "title": "Layoff fears are pushing some visa holders out of Big Tech",
+        "snippet": "Some visa holders are weighing Big Tech's pay and prestige against layoff risks that could threaten their ability to remain in the US.",
+        "source": "Business Insider"
+      }
+    ],
+    "factual_points": [],
+    "sources": [
+      "India TV News",
+      "The Economic Times on MSN",
+      "Business Insider",
+      "The American Bazaar"
+    ],
+    "retrieved_at": "2026-09-05T07:49:46.765776+00:00"
+  },
+  "chadwick boseman death": {
+    "topic": "chadwick boseman death",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "chadwick boseman death"
+    ],
+    "live_news": [
+      {
+        "title": "Chadwick Boseman's Inspiring Quote on Purpose: A Legacy of Meaningful Living",
+        "snippet": "On the sixth anniversary of Chadwick Boseman’s death, his moving advice about embracing your journey, overcoming struggles ...",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Black Panther star Chadwick Boseman's family sues his widow 6 years after his death",
+        "snippet": "Late actor Chadwick Boseman’s family has petitioned a Los Angeles court to remove his widow, Taylor Simone Ledward, as administrator of his estate, alleging she",
+        "source": "CBC.ca"
+      },
+      {
+        "title": "Lupita Nyong'o pays tribute to co-star Chadwick Boseman on death anniversary",
+        "snippet": "Lupita Nyong'o has paid tribute to her Black Panther co-star Chadwick Boseman, marking the anniversary of his death with a ...",
+        "source": "Zoom TV on MSN"
+      },
+      {
+        "title": "Ariana Grande and the Disappointment of Diagnosis",
+        "snippet": "Lauren Michele Jackson on the pop star Ariana Grande, whose appearance has prompted fans to speculate that she may suffer from an eating disorder. How should we",
+        "source": "The New Yorker"
+      }
+    ],
+    "factual_points": [],
+    "sources": [
+      "The New Yorker",
+      "Thoughtcatalog.com",
+      "CBC.ca",
+      "Zoom TV on MSN",
+      "Yahoo"
+    ],
+    "retrieved_at": "2026-09-05T07:50:23.774570+00:00"
+  },
+  "pakistan": {
+    "topic": "pakistan",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "pakistan"
+    ],
+    "live_news": [
+      {
+        "title": "Cricket-Gillespie hits out at Pakistan selectors after mid-series overhaul",
+        "snippet": "Sept 4 (Reuters) - Former Pakistan coach Jason Gillespie said the team's latest upheaval reflected a lack of stability off ...",
+        "source": "Reuters on MSN"
+      },
+      {
+        "title": "Pakistan’s Iran-US balancing Act: Leverage Without Alignment",
+        "snippet": "Pakistan’s role in the Iran-US conflict is often described as mediation. But that description misses the more interesting ...",
+        "source": "CounterPunch"
+      },
+      {
+        "title": "Coach Hesson says Pakistan players are more used to the 'chaos' than he is",
+        "snippet": "BIRMINGHAM, England (AP) — Pakistan interim red-ball cricket coach Mike Hesson believes his players are more used to the ...",
+        "source": "Associated Press News on MSN"
+      },
+      {
+        "title": "British trekker's body found in northern Pakistan",
+        "snippet": "The 30-year-old from Birmingham went missing on Saturday as he was descending from Musa Ka Musala.",
+        "source": "BBC News"
+      }
+    ],
+    "factual_points": [
+      "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia.",
+      "It is the fifth-most populous country, with a population of over 241.5 million, having the second-largest Muslim population in the world as of 2023.",
+      "Islamabad is the nation's capital, while Karachi is its largest city and financial centre."
+    ],
+    "sources": [
+      "Reuters on MSN",
+      "Wikipedia",
+      "CounterPunch",
+      "Associated Press News on MSN",
+      "BBC News"
+    ],
+    "retrieved_at": "2026-09-05T07:51:45.444095+00:00"
+  },
+  "India vs Australia thriller match": {
+    "topic": "India vs Australia thriller match",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "India",
+      "Australia",
+      "India Australia thriller match"
+    ],
+    "live_news": [
+      {
+        "title": "India busts firm faking expiry dates, nutrition labels on PepsiCo, Nestle food exports",
+        "snippet": "By Francis Mascarenhas and Aditya Kalra MUMBAI, Sept 1 (Reuters) - Indian authorities have raided an illegal operation in ...",
+        "source": "Reuters on MSN"
+      },
+      {
+        "title": "Inside India newsletter: India’s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love",
+        "snippet": "India's strong economic growth has surprised every quarter for the last year, but the performance of its key stock benchmarks ...",
+        "source": "CNBC on MSN"
+      },
+      {
+        "title": "India proposes mandatory battery storage for new renewable projects from July 2027",
+        "snippet": "By Sethuraman N R Sept 4 (Reuters) - India plans to mandate battery storage for all new government solar and wind projects ...",
+        "source": "Reuters on MSN"
+      },
+      {
+        "title": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
+        "snippet": "A reported cannabis-positive test involving an Air India pilot raises questions about what such a result can actually tell investigators.",
+        "source": "BBC News"
+      }
+    ],
+    "factual_points": [
+      "India, officially the Republic of India, is a country in South Asia.",
+      "It is the world's seventh-largest country by area and the largest by population.",
+      "Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east."
+    ],
+    "sources": [
+      "Wikipedia",
+      "CNBC on MSN",
+      "BBC News",
+      "Reuters on MSN"
+    ],
+    "retrieved_at": "2026-09-05T08:02:29.104297+00:00"
+  },
+  "India vs Australia test match drama and team performance": {
+    "topic": "India vs Australia test match drama and team performance",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "India",
+      "Australia",
+      "India Australia test match"
+    ],
+    "live_news": [
+      {
+        "title": "India's NSE targets listing in week of September 21 after IPO clearance, sources say",
+        "snippet": "By Jayshree P Upadhyay and Vivek Kumar M Sept 4 (Reuters) - India's National Stock Exchange is planning to list in the week starting September 21, two sources f",
+        "source": "Reuters"
+      },
+      {
+        "title": "India's GDP growth defies oil shock but stirs up controversy",
+        "snippet": "India's 7.8% GDP growth has been met with scepticism over methodology and long-term durability due to a weak monsoon.",
+        "source": "BBC"
+      },
+      {
+        "title": "India vs Pakistan Women's Asia Cup 2026: Head-to-Head Record and Where to Watch Live",
+        "snippet": "Fans can enjoy the live action of the India vs Pakistan Women's Asia Cup clash from 8 PM IST / 2:30 PM GMT. The match will be telecast live on the Sony Sports N",
+        "source": "Jagran Josh"
+      },
+      {
+        "title": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
+        "snippet": "A reported cannabis-positive test involving an Air India pilot raises questions about what such a result can actually tell investigators.",
+        "source": "BBC News"
+      }
+    ],
+    "factual_points": [
+      "India, officially the Republic of India, is a country in South Asia.",
+      "It is the world's seventh-largest country by area and the largest by population.",
+      "Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east."
+    ],
+    "sources": [
+      "BBC",
+      "Wikipedia",
+      "BBC News",
+      "Jagran Josh",
+      "Reuters"
+    ],
+    "retrieved_at": "2026-09-05T08:11:41.770025+00:00"
+  },
+  "babar azam": {
+    "topic": "babar azam",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "babar azam"
+    ],
+    "live_news": [
+      {
+        "title": "Former Pakistan selector claims Babar Azam ‘protected’ Imam-ul-Haq in faking injury, alleges abuse of medical staff",
+        "snippet": "A new controversy has hit the Pakistan cricket team as a former PCB selector has claimed that Babar Azam protected ...",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Babar Azam's slide continues, PAK batter suffers rankings blow after Lord's Test",
+        "snippet": "Babar Azam has slipped out of the ICC Test batting top 10 again after a horror Lord's outing, falling five places to 15th.",
+        "source": "India Today on MSN"
+      },
+      {
+        "title": "‘Horrible’! Babar Azam’s ‘authority’ questioned after PCB’s dramatic shake-up",
+        "snippet": "Michael Atherton has expressed doubts regarding Babar Azam's effectiveness as captain, especially following the Pakistan Cricket Board's sweeping squad alterati",
+        "source": "The Times of India on MSN"
+      },
+      {
+        "title": "Pakistan win first away Test in three years to draw Windies series",
+        "snippet": "Pakistan complete their first overseas Test win for three years with an eight-wicket victory over West Indies in Port of Spain.",
+        "source": "BBC News"
+      }
+    ],
+    "factual_points": [],
+    "sources": [
+      "India Today on MSN",
+      "BBC News",
+      "Al Jazeera English",
+      "The Times of India on MSN",
+      "Yahoo Sports"
+    ],
+    "retrieved_at": "2026-09-05T08:22:35.353536+00:00"
+  },
+  "indias got latent samay raina": {
+    "topic": "indias got latent samay raina",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "indias got latent samay"
+    ],
+    "live_news": [
+      {
+        "title": "Medha Shankr Joins 'India's Got Latent 2' Amid Dating Rumours With Samay Raina",
+        "snippet": "Medha Shankar is set to appear on the upcoming episode of Samay Raina’s India’s Got Latent 2, adding fresh interest to ...",
+        "source": "ABP News on MSN"
+      },
+      {
+        "title": "Varun Dhawan gets roasted by Samay Raina on India's Got Latent 2: ‘Why did you spoil Border 2?’",
+        "snippet": "In a hilarious new episode of Samay Raina's show India's Got Latent 2, Varun Dhawan faced good-natured roasting from fellow ...",
+        "source": "Hindustan Times on MSN"
+      },
+      {
+        "title": "India’s Got Latent 2 Varun Dhawan Episode Dailymotion: Who Are The Panelists? Where To Watch Samay Raina Show?",
+        "snippet": "The Samay Raina-hosted show has been keeping viewers curious with every new episode, and the upcoming special episode ...",
+        "source": "FilmiBeat"
+      },
+      {
+        "title": "Samay Raina, 4 other comedians get relief as Supreme Court quashes India’s Got Latent cases",
+        "snippet": "The Supreme Court has quashed criminal proceedings against comedian Samay Raina and four others over alleged insensitive remarks about persons with disabilities",
+        "source": "The Times of India"
+      }
+    ],
+    "factual_points": [],
+    "sources": [
+      "The Times of India",
+      "ABP News on MSN",
+      "FilmiBeat",
+      "Hindustan Times on MSN"
+    ],
+    "retrieved_at": "2026-09-05T08:29:24.547077+00:00"
+  },
+  "avengers doomsday": {
+    "topic": "avengers doomsday",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "avengers doomsday"
+    ],
+    "live_news": [
+      {
+        "title": "The Russo Brothers on Shooting 'Avengers: Doomsday' With an Unfinished Script: 'That's When the Magic Happens'",
+        "snippet": "The Russo Brothers were not worried that they started shooting \"Avengers: Doomsday\" without a finished script. The directors ...",
+        "source": "TheWrap on MSN"
+      },
+      {
+        "title": "‘Avengers: Doomsday’ Fall Movie Preview: Russo brothers, maestros of ensembles, test their limits",
+        "snippet": "Ups and downs have followed the Marvel Cinematic Universe since 2019’s “Avengers: Endgame,” but “Avengers: Doomsday” might ...",
+        "source": "Associated Press News"
+      },
+      {
+        "title": "Is Chris Evans in ‘Avengers: Doomsday’? His Captain America return explained",
+        "snippet": "The Marvel star has not played Steve Rogers since 2019, and his 'Avengers: Doomsday' return arrives with a very personal ...",
+        "source": "Hollywood Life on MSN"
+      },
+      {
+        "title": "‘Avengers: Doomsday’ Trailer in Lego Looks Much Brighter Than the Original",
+        "snippet": "Marvel recreated its first trailer for the highly anticipated film and it almost works too well.",
+        "source": "Gizmodo.com"
+      }
+    ],
+    "factual_points": [],
+    "sources": [
+      "Gizmodo.com",
+      "Hollywood Life on MSN",
+      "Associated Press News",
+      "TheWrap on MSN"
+    ],
+    "retrieved_at": "2026-09-05T08:32:26.501205+00:00"
+  },
+  "sadie sink": {
+    "topic": "sadie sink",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "sadie sink"
+    ],
+    "live_news": [
+      {
+        "title": "Calvin Klein taps Sadie Sink for second chapter of fall 'Feel the Fit' campaign",
+        "snippet": "Sadie Sink stars in the second chapter of Calvin Klein's Fall 2026 \"Feel the Fit\" denim campaign, shot by Aidan Zamiri and ...",
+        "source": "Fashion Times on MSN"
+      },
+      {
+        "title": "Excited to not play a villain - Sadie Sink on playing Jean Grey in 'Spider-Man: Brand New Day'",
+        "snippet": "Sadie Sink opens up about playing Jean Grey in Spider-Man: Brand New Day, revealing how the mutant’s powers have shaped her ...",
+        "source": "Netflix Junkie on MSN"
+      },
+      {
+        "title": "Sadie Sink channels 2000s pop diva in sexy Calvin Klein campaign",
+        "snippet": "Sadie Sink is channeling her inner pop star in a sexy new campaign for Calvin Klein.",
+        "source": "USA TODAY"
+      },
+      {
+        "title": "The Writers of ‘Spider-Man: Brand New Day’ on Crafting Their Complex Villain",
+        "snippet": "Sadie Sink's character presented some unique challenges for Erik Sommers and Chris McKenna.",
+        "source": "Gizmodo.com"
+      }
+    ],
+    "factual_points": [],
+    "sources": [
+      "Fashion Times on MSN",
+      "USA TODAY",
+      "BBC News",
+      "Netflix Junkie on MSN",
+      "Gizmodo.com"
+    ],
+    "retrieved_at": "2026-09-05T08:34:20.667084+00:00"
+  },
+  "Whether Bollywood mass cinema is making a comeback": {
+    "topic": "Whether Bollywood mass cinema is making a comeback",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "Whether Bollywood",
+      "Bollywood mass cinema making"
+    ],
+    "live_news": [
+      {
+        "title": "Pankaj Tripathi talks about whether Pakistani actors like Fawad Khan should be allowed in Indian cinema or not. Read to find out!",
+        "snippet": "Fawad Khan had been long awaiting his return to the world of Bollywood, and just when he was about to return after 2016 with the film 'Abir Gulaal', all hell br",
+        "source": "MSN"
+      },
+      {
+        "title": "Kangana Ranaut vs EVERYONE: Why does Bollywood's 'moral referee' have an opinion on Kriti, Taapsee, Sonu Sood and almost everybody else?",
+        "snippet": "There was a time when a Bollywood controversy involving Kangana Ranaut usually began with Kangana Ranaut. She would take on a filmmaker, question",
+        "source": "Bollywood Hungama"
+      },
+      {
+        "title": "How Bollywood turns to the Seven Sisters amid India's geopolitical shift",
+        "snippet": "From tensions with China and the Myanmar war to Bangladesh's changing rhetoric, the Northeast's growing strategic importance is finding a place in Bollywood",
+        "source": "The Daily Star"
+      },
+      {
+        "title": "A mother has spent years caring for her special-needs child. The toll quietly grew.",
+        "snippet": "RANCHO CORDOVA, Calif. - Annie Morgan wrapped her arms around her eldest daughter’s waist and guided her toward the minivan, the two of them moving in a slow...",
+        "source": "The Washington Post"
+      }
+    ],
+    "factual_points": [],
+    "sources": [
+      "The Daily Star",
+      "Bollywood Hungama",
+      "MSN",
+      "Dazed",
+      "The Washington Post"
+    ],
+    "retrieved_at": "2026-09-05T08:44:55.241854+00:00"
+  },
+  "tanmay bhatt": {
+    "topic": "tanmay bhatt",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "tanmay bhatt"
+    ],
+    "live_news": [
+      {
+        "title": "Did Tanmay Bhat take a dig at Ranveer Singh over Don 3 row? Varun Dhawan reacts",
+        "snippet": "Days after the film body revoked its non-cooperation directive against Ranveer Singh over the Don 3 row, stand-up comedian Tanmay Bhat seemingly took a dig at h",
+        "source": "MSN"
+      },
+      {
+        "title": "Tanmay Bhat Named Richest YouTuber With Rs 665 Cr; Comedian Reacts As Samay Raina Trails Behind",
+        "snippet": "Tanmay Bhat has been named India’s richest YouTuber with a net worth of Rs 665 crore but what’s crazier is that the comedian himself is surprised by the revelat",
+        "source": "MSN"
+      },
+      {
+        "title": "Spotted: KSI arrives in Mumbai! To shoot with Tanmay Bhatt and Samay Raina",
+        "snippet": "In this four day visit to India KSI will be covering Mumbai and Delhi ...",
+        "source": "The Times of India on MSN"
+      }
+    ],
+    "factual_points": [],
+    "sources": [
+      "MSN",
+      "The Times of India on MSN"
+    ],
+    "retrieved_at": "2026-09-05T08:46:32.925808+00:00"
+  },
+  "disha patani": {
+    "topic": "disha patani",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "disha patani"
+    ],
+    "live_news": [
+      {
+        "title": "WATCH: Tiger Shroff and girlfriend Disha Patani have fun as they prep up for Baaghi 2",
+        "snippet": "Lovebirds Tiger Shroff and Disha Patani will finally be seen sharing screen space in Baaghi 2. The two recently began shooting for the film. Disha had shared a ",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Disha Patani dances to Sheila Ki Jawani like nobody's watching video",
+        "snippet": "Disha Patani grooved to Sheila Ki Jawani at the Awarapan 2 success bash as the film crossed Rs 200 crore worldwide. A viral ...",
+        "source": "India Today on MSN"
+      },
+      {
+        "title": "Box office: With Welcome to the Jungle, Disha Patani has a chance to hit the 1500 crore milestone post-COVID",
+        "snippet": "Box Office: Disha Patani Can Reach The 1500 Crore Post-COVID Milestone With Welcome To The Jungle (Photo Credit: YouTube) Disha Patani has successfully establis",
+        "source": "MSN"
+      },
+      {
+        "title": "Radhe 2021 1080p Zee5 WEB-DL x264-Telly",
+        "snippet": "Awards 3 nominations total See more awards » Plot: An honest cop is determined to bring down a corrupt drug mafia, who targets youth to drive towards drug addic",
+        "source": "Rlsbb.cc"
+      }
+    ],
+    "factual_points": [
+      "Disha Patani (pronounced [ˈd̪ɪʃa paːʈəˈni]; born 13 June 1992) is an Indian actress who works primarily in Hindi films.",
+      "Known for her fitness and supporting roles in male-dominated films, she has appeared in Forbes India's Celebrity 100 list of 2019.",
+      "Patani made her acting debut with the Telugu action drama Loafer (2015), and had her first Hindi film release with the biopic M.S."
+    ],
+    "sources": [
+      "MSN",
+      "Wikipedia",
+      "Rlsbb.cc",
+      "Economictimes.com",
+      "Yahoo",
+      "India Today on MSN"
+    ],
+    "retrieved_at": "2026-09-05T09:15:58.627226+00:00"
+  },
+  "vada pav": {
+    "topic": "vada pav",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "vada pav"
+    ],
+    "live_news": [
+      {
+        "title": "Healthy vada pav recipe: Homemade Mumbai style snack guilt-free makeover with low-calorie and whole grains",
+        "snippet": "Vada pav is a calorie-dense food, and there's no denying it. But what if you are on a weight-loss journey and still want to have a vada pav? You can grab a heal",
+        "source": "MSN"
+      },
+      {
+        "title": "What is Vada Pav called in English?",
+        "snippet": "Vada Pav in English: Vada Pav is one of the most iconic and beloved street foods of Mumbai, Maharashtra. In English, vada pav is often described as an “Indian b",
+        "source": "MSN"
+      },
+      {
+        "title": "Healthy Vada Pav? Yes, Indeed! Here Are 5 Ways To Make It Weight-Loss Friendly",
+        "snippet": "Vada pav is one of the most popular Indian snacks. (Photo Credit: iStock) Vada pav is loved by millions across the country. Spicy potato vada topped with fiery ",
+        "source": "NDTV"
+      },
+      {
+        "title": "Remembering Anthony Bourdain through his radical honesty",
+        "snippet": "Anthony Bourdain's appreciation for honest food and his impact was evident. He enjoyed simple dishes like vada pav, calling it the Bombay burger. Bourdain champ",
+        "source": "The Times of India"
+      }
+    ],
+    "factual_points": [
+      "Vada pav, alternatively spelt wada pao, () is a vegetarian fast food dish native to the Indian state of Maharashtra.",
+      "The dish consists of a deep-fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle.",
+      "It is generally accompanied by one or more chutneys and a green chili pepper."
+    ],
+    "sources": [
+      "Wikipedia",
+      "The Times of India",
+      "MSN",
+      "NDTV"
+    ],
+    "retrieved_at": "2026-09-05T09:16:55.207091+00:00"
+  },
+  "nepal floods": {
+    "topic": "nepal floods",
+    "current_date_anchor": "September 2026",
+    "entities": [
+      "nepal floods"
+    ],
+    "live_news": [
+      {
+        "title": "Rescuers in Nepal pull a Chinese national and a woman alive 10 days after...",
+        "snippet": "KATHMANDU, Nepal (AP) — Rescuers in Nepal pulled a Chinese national and a woman alive 10 days after ...",
+        "source": "WOOD TV8 Grand Rapids"
+      },
+      {
+        "title": "Nepal tunnel rescue revives hopes 10 days after flood",
+        "snippet": "Rescuers in Nepal pulled a Chinese national alive on Saturday from a tunnel buried by debris, as...",
+        "source": "AFP · via Yahoo News"
+      },
+      {
+        "title": "Rescuers in Nepal pull Chinese national alive from hydropower tunnel 10 days...",
+        "snippet": "Rescuers in Nepal pull Chinese national alive from hydropower tunnel 10 days after floods, prime...",
+        "source": "Associated Press"
+      },
+      {
+        "title": "How Rising Temperatures Likely Contributed to Nepal’s Deadly Flood",
+        "snippet": "Climate change is causing glaciers to retreat and become less stable, upping the odds of catastrophic collapses.",
+        "source": "Wired"
+      }
+    ],
+    "factual_points": [],
+    "sources": [
+      "WOOD TV8 Grand Rapids",
+      "Wired",
+      "Associated Press",
+      "BBC News",
+      "AFP · via Yahoo News"
+    ],
+    "retrieved_at": "2026-09-05T09:17:34.735932+00:00"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-09-05T05:19:01.778367+00:00",
+  "users": [
+    {
+      "user_id": "davidehrlich",
+      "total_tweets": 952,
+      "avg_word_count": 25.977,
+      "avg_char_count": 145.972,
+      "avg_sentence_count": 1.186,
+      "avg_lexical_diversity": 0.934,
+      "avg_exclamations": 0.14,
+      "avg_questions": 0.089,
+      "avg_emojis": 0.024,
+      "avg_hashtags": 0.054,
+      "avg_mentions": 0.028,
+      "avg_caps_words": 0.623,
+      "retweet_rate": 0.0,
+      "question_rate": 0.042,
+      "exclamatory_rate": 0.101,
+      "sarcasm_signal_rate": 0.038,
+      "category_distribution": {
+        "General": 453,
+        "Film": 295,
+        "Personal": 108,
+        "Review": 70,
+        "TV": 10,
+        "News": 8,
+        "Music": 6,
+        "Sports": 2
+      },
+      "sentiment_distribution": {
+        "Positive": 373,
+        "Neutral": 368,
+        "Humorous": 121,
+        "Negative": 72,
+        "Mixed": 18
+      }
+    },
+    {
+      "user_id": "kevin_thecritic",
+      "total_tweets": 648,
+      "avg_word_count": 39.887,
+      "avg_char_count": 225.097,
+      "avg_sentence_count": 2.383,
+      "avg_lexical_diversity": 0.89,
+      "avg_exclamations": 0.13,
+      "avg_questions": 0.083,
+      "avg_emojis": 0.006,
+      "avg_hashtags": 0.002,
+      "avg_mentions": 0.034,
+      "avg_caps_words": 0.185,
+      "retweet_rate": 0.0,
+      "question_rate": 0.06,
+      "exclamatory_rate": 0.105,
+      "sarcasm_signal_rate": 0.028,
+      "category_distribution": {
+        "Film": 468,
+        "Review": 60,
+        "TV": 52,
+        "General": 41,
+        "Personal": 25,
+        "Awards": 1,
+        "Music": 1
+      },
+      "sentiment_distribution": {
+        "Positive": 395,
+        "Neutral": 195,
+        "Negative": 33,
+        "Mixed": 18,
+        "Humorous": 7
+      }
+    },
+    {
+      "user_id": "theinsneider",
+      "total_tweets": 1034,
+      "avg_word_count": 25.023,
+      "avg_char_count": 140.843,
+      "avg_sentence_count": 2.293,
+      "avg_lexical_diversity": 0.934,
+      "avg_exclamations": 0.23,
+      "avg_questions": 0.197,
+      "avg_emojis": 0.006,
+      "avg_hashtags": 0.019,
+      "avg_mentions": 0.082,
+      "avg_caps_words": 2.036,
+      "retweet_rate": 0.0,
+      "question_rate": 0.127,
+      "exclamatory_rate": 0.197,
+      "sarcasm_signal_rate": 0.02,
+      "category_distribution": {
+        "General": 598,
+        "Film": 245,
+        "News": 67,
+        "Review": 50,
+        "TV": 46,
+        "Music": 11,
+        "Sports": 11,
+        "Awards": 6
+      },
+      "sentiment_distribution": {
+        "Neutral": 867,
+        "Positive": 124,
+        "Negative": 43
+      }
+    }
+  ]
+}

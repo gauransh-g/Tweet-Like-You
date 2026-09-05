@@ -1,0 +1,95 @@
+{
+  "user_id": "ravishastriofc",
+  "sample_size": 14,
+  "lexical_richness": {
+    "total_tokens": 408,
+    "vocab_size": 232,
+    "type_token_ratio_ttr": 0.5686,
+    "yules_characteristic_k": 63.92,
+    "hapax_legomena_ratio": 0.6897,
+    "avg_word_length": 4.81
+  },
+  "length_and_flow": {
+    "avg_words_per_tweet": 29.1,
+    "avg_chars_per_tweet": 176.3,
+    "avg_sentences_per_tweet": 4.79,
+    "avg_words_per_sentence": 6.09,
+    "flesch_reading_ease": 58.1
+  },
+  "capitalization_habits": {
+    "starts_with_lowercase_rate": 0.0,
+    "starts_with_capital_rate": 1.0,
+    "uppercase_char_ratio": 0.0579,
+    "top_all_caps_words": [
+      "T20",
+      "18M",
+      "587K",
+      "188K",
+      "BINDAAS"
+    ]
+  },
+  "punctuation_fingerprint": {
+    "exclamations_per_100_words": 0.98,
+    "questions_per_100_words": 0.735,
+    "ellipses_per_tweet": 0.071,
+    "colons_per_tweet": 0.714,
+    "semicolons_per_tweet": 0.0,
+    "dashes_per_tweet": 0.071,
+    "parentheses_tweet_rate": 0.357
+  },
+  "grammatical_profile": {
+    "noun_ratio": 0.4436,
+    "verb_ratio": 0.0907,
+    "adj_ratio": 0.0858,
+    "adv_ratio": 0.0319,
+    "pronoun_ratio": 0.0613,
+    "pronoun_perspective": {
+      "1st_person": 0.6667,
+      "2nd_person": 0.2,
+      "3rd_person": 0.1333
+    }
+  },
+  "social_microblogging": {
+    "emoji_rate_per_tweet": 0.929,
+    "top_emojis": [
+      "🙏",
+      "💛",
+      "😮💨",
+      "👏",
+      "😭😭"
+    ],
+    "hashtag_rate_per_tweet": 0.0,
+    "top_hashtags": [],
+    "mention_rate_per_tweet": 1.071
+  },
+  "signature_phrases": {
+    "top_openers": [
+      "ravi shastri",
+      "one of",
+      "1:00 1.8m",
+      "jul 30,",
+      "dec 11,",
+      "this new",
+      "jul 17,",
+      "jul 31,"
+    ],
+    "top_closers": [
+      "jinks. @ajinkyarahane88",
+      "gary 🙏",
+      "team 💛",
+      "😮💨 @virendersehwag",
+      "bow. 👏",
+      "2026 13:49:52",
+      "2026 10:07:35",
+      "may 20"
+    ]
+  },
+  "topic_and_tone": {
+    "categories": {
+      "General": 14
+    },
+    "sentiments": {
+      "Neutral": 14
+    }
+  }
+}

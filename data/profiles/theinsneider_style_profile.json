@@ -1,0 +1,113 @@
+{
+  "user_id": "theinsneider",
+  "sample_size": 1034,
+  "lexical_richness": {
+    "total_tokens": 27001,
+    "vocab_size": 4765,
+    "type_token_ratio_ttr": 0.1765,
+    "yules_characteristic_k": 61.95,
+    "hapax_legomena_ratio": 0.545,
+    "avg_word_length": 4.29
+  },
+  "length_and_flow": {
+    "avg_words_per_tweet": 26.1,
+    "avg_chars_per_tweet": 140.8,
+    "avg_sentences_per_tweet": 2.41,
+    "avg_words_per_sentence": 10.86,
+    "flesch_reading_ease": 70.7
+  },
+  "capitalization_habits": {
+    "starts_with_lowercase_rate": 0.0087,
+    "starts_with_capital_rate": 0.9913,
+    "uppercase_char_ratio": 0.1093,
+    "top_all_caps_words": [
+      "THE",
+      "BREAKING",
+      "TONIGHT",
+      "INSNEIDER",
+      "HOT",
+      "EXCLUSIVE",
+      "MIC",
+      "RIP",
+      "ONE",
+      "OF"
+    ]
+  },
+  "punctuation_fingerprint": {
+    "exclamations_per_100_words": 0.881,
+    "questions_per_100_words": 0.756,
+    "ellipses_per_tweet": 0.496,
+    "colons_per_tweet": 0.234,
+    "semicolons_per_tweet": 0.001,
+    "dashes_per_tweet": 0.014,
+    "parentheses_tweet_rate": 0.036
+  },
+  "grammatical_profile": {
+    "noun_ratio": 0.3035,
+    "verb_ratio": 0.1918,
+    "adj_ratio": 0.0603,
+    "adv_ratio": 0.0476,
+    "pronoun_ratio": 0.1029,
+    "pronoun_perspective": {
+      "1st_person": 0.5031,
+      "2nd_person": 0.1683,
+      "3rd_person": 0.3286
+    }
+  },
+  "social_microblogging": {
+    "emoji_rate_per_tweet": 0.006,
+    "top_emojis": [
+      "💩",
+      "🌭",
+      "👍"
+    ],
+    "hashtag_rate_per_tweet": 0.019,
+    "top_hashtags": [
+      "#1",
+      "#CanIGetARewrite",
+      "#18",
+      "#TheMayor",
+      "#FinaleOfKingstown"
+    ],
+    "mention_rate_per_tweet": 0.082
+  },
+  "signature_phrases": {
+    "top_openers": [
+      "tonight on",
+      "no newsletter",
+      "breaking via",
+      "just finished",
+      "if you",
+      "just wrapped",
+      "hot rumor:",
+      "today on"
+    ],
+    "top_closers": [
+      "more scoops...",
+      "fresh scoops.",
+      "tonight's newsletter.",
+      "coming soon.",
+      "this week.",
+      "that one.",
+      "crime fiction.",
+      "a result."
+    ]
+  },
+  "topic_and_tone": {
+    "categories": {
+      "General": 598,
+      "Film": 245,
+      "News": 67,
+      "Review": 50,
+      "TV": 46,
+      "Music": 11,
+      "Sports": 11,
+      "Awards": 6
+    },
+    "sentiments": {
+      "Neutral": 867,
+      "Positive": 124,
+      "Negative": 43
+    }
+  }
+}

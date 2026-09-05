@@ -1,0 +1,117 @@
+{
+  "user_id": "davidehrlich",
+  "sample_size": 952,
+  "lexical_richness": {
+    "total_tokens": 25593,
+    "vocab_size": 5242,
+    "type_token_ratio_ttr": 0.2048,
+    "yules_characteristic_k": 63.71,
+    "hapax_legomena_ratio": 0.5872,
+    "avg_word_length": 4.36
+  },
+  "length_and_flow": {
+    "avg_words_per_tweet": 26.9,
+    "avg_chars_per_tweet": 146.0,
+    "avg_sentences_per_tweet": 1.79,
+    "avg_words_per_sentence": 15.04,
+    "flesch_reading_ease": 63.7
+  },
+  "capitalization_habits": {
+    "starts_with_lowercase_rate": 0.5788,
+    "starts_with_capital_rate": 0.4191,
+    "uppercase_char_ratio": 0.0412,
+    "top_all_caps_words": [
+      "THE",
+      "AND",
+      "OF",
+      "TV",
+      "US",
+      "RIP",
+      "LA",
+      "MCU",
+      "TO",
+      "SO"
+    ]
+  },
+  "punctuation_fingerprint": {
+    "exclamations_per_100_words": 0.52,
+    "questions_per_100_words": 0.332,
+    "ellipses_per_tweet": 0.048,
+    "colons_per_tweet": 0.249,
+    "semicolons_per_tweet": 0.0,
+    "dashes_per_tweet": 0.054,
+    "parentheses_tweet_rate": 0.161
+  },
+  "grammatical_profile": {
+    "noun_ratio": 0.2849,
+    "verb_ratio": 0.1726,
+    "adj_ratio": 0.0864,
+    "adv_ratio": 0.0646,
+    "pronoun_ratio": 0.095,
+    "pronoun_perspective": {
+      "1st_person": 0.4958,
+      "2nd_person": 0.115,
+      "3rd_person": 0.3892
+    }
+  },
+  "social_microblogging": {
+    "emoji_rate_per_tweet": 0.024,
+    "top_emojis": [
+      "❤",
+      "🦊",
+      "🤌",
+      "💀",
+      "🤙🏻"
+    ],
+    "hashtag_rate_per_tweet": 0.054,
+    "top_hashtags": [
+      "#Sundance2022",
+      "#Oscars",
+      "#Cannes2022",
+      "#TellurideFilmFestival",
+      "#TIFF21"
+    ],
+    "mention_rate_per_tweet": 0.028
+  },
+  "signature_phrases": {
+    "top_openers": [
+      "this is",
+      "one of",
+      "i was",
+      "i am",
+      "it was",
+      "the thing",
+      "the only",
+      "in case"
+    ],
+    "top_closers": [
+      "my review:",
+      "review: [link]",
+      "#cannes2022 review:",
+      "this year",
+      "my review",
+      "god intended",
+      "#tiff22 review:",
+      "thank you"
+    ]
+  },
+  "topic_and_tone": {
+    "categories": {
+      "General": 453,
+      "Film": 295,
+      "Personal": 108,
+      "Review": 70,
+      "TV": 10,
+      "News": 8,
+      "Music": 6,
+      "Sports": 2
+    },
+    "sentiments": {
+      "Positive": 373,
+      "Neutral": 368,
+      "Humorous": 121,
+      "Negative": 72,
+      "Mixed": 18
+    }
+  }
+}

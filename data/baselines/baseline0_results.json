@@ -1,0 +1,75 @@
+{
+  "baseline": "baseline_0",
+  "description": "LLM only — no user context, no RAG, no persona",
+  "model": "gemini-3.6-flash",
+  "generated_at": "2026-09-05T05:48:21.803013+00:00",
+  "total_topics": 6,
+  "results": [
+    {
+      "topic": "Oppenheimer's use of practical effects and IMAX filmmaking",
+      "baseline": "baseline_0",
+      "result": {
+        "status": "ok",
+        "text": "Watching Oppenheimer in 70mm IMAX proves that digital effects will never replicate the terrifying weight of practical filmmaking. Nolan turned an intimate historical drama into a visceral, bone-rattling masterpiece through sheer technical craft and the raw power of celluloid.",
+        "char_count": 276,
+        "elapsed_s": 6.83,
+        "model": "gemini-3.6-flash"
+      }
+    },
+    {
+      "topic": "Whether streaming has killed the theatrical experience",
+      "baseline": "baseline_0",
+      "result": {
+        "status": "ok",
+        "text": "Streaming didn’t kill the theatrical experience—it exposed how lazy studios became. You can’t replicate the communal magic of a dark room and a massive screen on a couch. Cinema isn’t dead; it just raised the bar for what’s actually worth leaving the house for.",
+        "char_count": 261,
+        "elapsed_s": 22.22,
+        "model": "gemini-3.6-flash"
+      }
+    },
+    {
+      "topic": "The Brutalist and its 3.5 hour runtime",
+      "baseline": "baseline_0",
+      "result": {
+        "status": "ok",
+        "text": "Don’t let the 3.5-hour runtime scare you away—The Brutalist earns every single minute of its monumental length. Brady Corbet has crafted a staggering, uncompromising epic that makes modern two-hour movies feel bloated by comparison.",
+        "char_count": 232,
+        "elapsed_s": 27.14,
+        "model": "gemini-3.6-flash"
+      }
+    },
+    {
+      "topic": "Why superhero fatigue is real",
+      "baseline": "baseline_0",
+      "result": {
+        "status": "ok",
+        "text": "Superhero fatigue isn’t about being tired of capes; it’s about being exhausted by homework. When every movie feels like a two-hour commercial for the next project rather than a self-contained story with real stakes and distinct vision, audiences naturally check out.",
+        "char_count": 266,
+        "elapsed_s": 6.1,
+        "model": "gemini-3.6-flash"
+      }
+    },
+    {
+      "topic": "Dune Part Two's desert cinematography",
+      "baseline": "baseline_0",
+      "result": {
+        "status": "ok",
+        "text": "Dune: Part Two’s desert cinematography is an absolute masterclass in scale and texture. Greig Fraser captures Arrakis with a brutal, sun-bleached majesty that makes the sand feel tangible and the world overwhelmingly real. Cinema was made for visuals like this.",
+        "char_count": 261,
+        "elapsed_s": 6.28,
+        "model": "gemini-3.6-flash"
+      }
+    },
+    {
+      "topic": "The Oscar nominations being predictable this year",
+      "baseline": "baseline_0",
+      "result": {
+        "status": "ok",
+        "text": "Watching this year’s Oscar nominations felt less like celebrating the best in cinema and more like reading a pre-approved corporate memo, as the Academy once again refused to embrace a single genuine surprise.",
+        "char_count": 209,
+        "elapsed_s": 26.67,
+        "model": "gemini-3.6-flash"
+      }
+    }
+  ]
+}

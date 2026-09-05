@@ -1,0 +1,91 @@
+{
+  "generated_at": "2026-09-05T05:15:56.910128+00:00",
+  "total_tweets": 2634,
+  "total_users": 3,
+  "users": [
+    {
+      "user_id": "davidehrlich",
+      "total_tweets": 952,
+      "avg_length": 146.0,
+      "min_length": 5,
+      "max_length": 280,
+      "date_start": "2021-07-17T20:04:18+00:00",
+      "date_end": "2026-04-06T17:50:19+00:00",
+      "categories": {
+        "General": 453,
+        "Film": 295,
+        "Personal": 108,
+        "Review": 70,
+        "TV": 10,
+        "News": 8,
+        "Music": 6,
+        "Sports": 2
+      },
+      "sentiments": {
+        "Positive": 373,
+        "Neutral": 368,
+        "Humorous": 121,
+        "Negative": 72,
+        "Mixed": 18
+      },
+      "total_likes": 1812338,
+      "total_views": 86184793,
+      "avg_likes": 1903.7,
+      "avg_views": 90530.2,
+      "dropped_invalid": 13,
+      "dropped_duplicates": 31
+    },
+    {
+      "user_id": "kevin_thecritic",
+      "total_tweets": 648,
+      "avg_length": 225.1,
+      "min_length": 8,
+      "max_length": 744,
+      "date_start": "2024-11-19T18:23:59+00:00",
+      "date_end": "2026-04-10T04:16:26+00:00",
+      "categories": {
+        "Film": 468,
+        "Review": 60,
+        "TV": 52,
+        "General": 41,
+        "Personal": 25,
+        "Awards": 1,
+        "Music": 1
+      },
+      "sentiments": {
+        "Positive": 395,
+        "Neutral": 195,
+        "Negative": 33,
+        "Mixed": 18,
+        "Humorous": 7
+      },
+      "total_likes": 2684,
+      "total_views": 197101,
+      "avg_likes": 4.1,
+      "avg_views": 304.2,
+      "dropped_invalid": 0,
+      "dropped_duplicates": 31
+    },
+    {
+      "user_id": "theinsneider",
+      "total_tweets": 1034,
+      "avg_length": 140.8,
+      "min_length": 5,
+      "max_length": 530,
+      "date_start": "2024-04-11T21:31:42+00:00",
+      "date_end": "2026-04-07T05:43:44+00:00",
+      "categories": {
+        "General": 1034
+      },
+      "sentiments": {
+        "Neutral": 1034
+      },
+      "total_likes": 92956,
+      "total_views": 17018981,
+      "avg_likes": 89.9,
+      "avg_views": 16459.4,
+      "dropped_invalid": 3,
+      "dropped_duplicates": 17
+    }
+  ]
+}
