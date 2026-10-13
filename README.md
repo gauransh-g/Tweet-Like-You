@@ -1,6 +1,6 @@
 # 🪶 Tweet Like You
 
-> **Universal Social Voice Cloner, Multilingual Stylometric Engine & Real-Time Editorial Matrix**
+> **Production Stylometric Persona Profiling, Semantic Vector Retrieval & Grounded AI Tweet Generation**
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-19.0-61DAFB.svg?style=flat&logo=react&logoColor=black)](https://react.dev/)
@@ -10,6 +10,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Tweet Like You** is an enterprise-grade AI engine that captures, quantifies, and clones individual writing voices for social media. Moving beyond generic LLM prompts, it calculates mathematical stylometrics (syntactic pacing, vernacular blending, lowercase frequency, capitalization bursts), retrieves true historical context using **ChromaDB dense vectors**, grounds generated content with **live web news**, and presents a structured **4-Angle Editorial Matrix** scored for viral potential and brand fidelity.
+
+![Tweet Like You Studio Preview](docs/screenshots/tweet_like_you_studio.png)
 
 ---
 
@@ -138,8 +140,8 @@ Tweet Like You/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tweet-like-you.git
-cd tweet-like-you
+git clone https://github.com/gauransh-g/Tweet-Like-You.git
+cd Tweet-Like-You
 ```
 
 ---
